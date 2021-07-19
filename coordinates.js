@@ -18,7 +18,7 @@ const doRequest = (url) => {
         request(url, (error, response, body) => {
             if (error) reject(error);
             const data = parseJson(body);
-            console.log(data)
+            //console.log(data)
             resolve(data);
         });
     };
@@ -27,7 +27,7 @@ const doRequest = (url) => {
 
 
 const getApiUrl = (address) => {
-    console.log(`${API_URL}?address=${address.replace(/[- ]+/g, "+")}&key=${API_KEY}`)
+    //console.log(`${API_URL}?address=${address.replace(/[- ]+/g, "+")}&key=${API_KEY}`)
     return `${API_URL}?address=${address.replace(/[- ]+/g, "+")}&key=${API_KEY}`;
 }
 const address = endereco;
@@ -38,8 +38,13 @@ const address = endereco;
     const apiUrl = getApiUrl(address[i]);
     const data = await doRequest(apiUrl);
 
-
-
-    console.log(data.results[0].geometry.location);
+    const results = data.results[0].geometry.location
+    //console.log(data.results[0].geometry.location.lat);
+    const coordinate = {
+        endereco: data.results[0].formatted_address,
+        lat:results.lat,
+        lng:results.lng
+    }
+    console.log(coordinate)
     }
 })();
