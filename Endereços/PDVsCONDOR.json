@@ -1,0 +1,3019 @@
+[
+  {
+    "Cliente - Nome": "AGUILERA OLIVEIRA FERRAMENTAS E PROTECAO LTDA ME",
+    "Cliente - CNPJ": "04289731000150",
+    "Cliente - Estado": "GO",
+    "Cliente - Cidade": "GOIANIA",
+    "rua": "ALAMEDA  CASCAVEL,844-QUADRA CH LOTE 13,74210-125"
+  },
+  {
+    "Cliente - Nome": "ARENOR DISTR E CONSTRUCAO LTDA",
+    "Cliente - CNPJ": 16823179000117,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "SAO MARTINHO",
+    "rua": "EST RS 210,55-SL 02 A,98690-000"
+  },
+  {
+    "Cliente - Nome": "ASSOCOM SOCIEDADE ANONIMA",
+    "Cliente - CNPJ": 15023257000136,
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "JOINVILLE",
+    "rua": "AV QUINZE DE NOVEMBRO,7581-,89237-001"
+  },
+  {
+    "Cliente - Nome": "BARKEV MATERIAIS PARA CONSTRUCOES LTDA",
+    "Cliente - CNPJ": 60406725000700,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "OSASCO",
+    "rua": "AV  DOS AUTONOMISTAS,6161-,06194-050"
+  },
+  {
+    "Cliente - Nome": "BARKEV MATERIAIS PARA CONSTRUCOES LTDA",
+    "Cliente - CNPJ": 60406725000882,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "CARAPICUIBA",
+    "rua": "AV COMENDADOR DANTE CARRARO,135-,06396-000"
+  },
+  {
+    "Cliente - Nome": "BARKEV MATERIAIS PARA CONSTRUCOES LTDA",
+    "Cliente - CNPJ": 60406725000610,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "CARAPICUIBA",
+    "rua": "AV INOCENCIO SERAFICO,1717-,06380-021"
+  },
+  {
+    "Cliente - Nome": "BARKEV MATERIAIS PARA CONSTRUCOES LTDA",
+    "Cliente - CNPJ": 60406725000106,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "OSASCO",
+    "rua": "R  ANTONIO BERNARDO COUTINHO,135-139,06013-050"
+  },
+  {
+    "Cliente - Nome": "BLUE TINTAS LTDA",
+    "Cliente - CNPJ": "01050029001112",
+    "Cliente - Estado": "BA",
+    "Cliente - Cidade": "LAURO DE FREITAS",
+    "rua": "RD,452-QD 0001 LT 14E15,42700-000"
+  },
+  {
+    "Cliente - Nome": "BLUE TINTAS LTDA",
+    "Cliente - CNPJ": "01050029000221",
+    "Cliente - Estado": "BA",
+    "Cliente - Cidade": "LAURO DE FREITAS",
+    "rua": "AV  SANTOS DUMONT,3004-,42700-000"
+  },
+  {
+    "Cliente - Nome": "CAETANO DE TATUI MATS PARA  CONSTR LTDA",
+    "Cliente - CNPJ": "00173353000517",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "TATUI",
+    "rua": "R PADRE ANACLETO DIAS BATISTA,225-,18276-660"
+  },
+  {
+    "Cliente - Nome": "CARAJAS MATERIAL DE CONSTRUCAO LTDA",
+    "Cliente - CNPJ": "03656804000727",
+    "Cliente - Estado": "AL",
+    "Cliente - Cidade": "RIO LARGO",
+    "rua": "LOT SANTA MARIA,194-,57100-000"
+  },
+  {
+    "Cliente - Nome": "CASAS DA AGUA MATS PARA CONSTRUÇAO LTDA",
+    "Cliente - CNPJ": 13501187000159,
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "SAO JOSE",
+    "rua": "AV PRES KENNEDY,1284-,88102-400"
+  },
+  {
+    "Cliente - Nome": "CASSOL MATERIAIS DE CONSTRUCAO LTDA",
+    "Cliente - CNPJ": 75400218000809,
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "SAO JOSE",
+    "rua": "ROD BR 101 KM 206,SN-ACESSO VIA EXPRESSA,88102-700"
+  },
+  {
+    "Cliente - Nome": "CASSOL MATERIAIS DE CONSTRUCAO LTDA",
+    "Cliente - CNPJ": 75400218002267,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "CANOAS",
+    "rua": "AV GUILHERME SCHELL,130-,92200-148"
+  },
+  {
+    "Cliente - Nome": "CASSOL MATERIAIS DE CONSTRUCAO LTDA",
+    "Cliente - CNPJ": 75400218001104,
+    "Cliente - Estado": "PR",
+    "Cliente - Cidade": "CURITIBA",
+    "rua": "R PROFESSORA MARIA DE ASSUMPCAO,215-,81630-040"
+  },
+  {
+    "Cliente - Nome": "CENTRAL TINTAS ITAJUBA LTDA EPP",
+    "Cliente - CNPJ": 11396061000136,
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "ITAJUBA",
+    "rua": "R JOSE DIAS COELHO,164-,37505-148"
+  },
+  {
+    "Cliente - Nome": "COMERCIAL DE TINTAS DE MACHADO LTDA",
+    "Cliente - CNPJ": 53425237000180,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "OURINHOS",
+    "rua": "AV JACINTO DE SA,697-,19911-720"
+  },
+  {
+    "Cliente - Nome": "COMERCIAL IVAIPORA LTDA",
+    "Cliente - CNPJ": 75274423001413,
+    "Cliente - Estado": "PR",
+    "Cliente - Cidade": "IVAIPORA",
+    "rua": "AC SECUNDARIO A BR,466-KM 1 SN,86870-000"
+  },
+  {
+    "Cliente - Nome": "COMERCIAL MARANGUAPE LTDA",
+    "Cliente - CNPJ": "01625371000202",
+    "Cliente - Estado": "RN",
+    "Cliente - Cidade": "NATAL",
+    "rua": "R  TRES LAGOAS,399-LAGOA AZUL,59139-572"
+  },
+  {
+    "Cliente - Nome": "COML DE FERRAGENS SAO LUIS LTDA",
+    "Cliente - CNPJ": 15931157000299,
+    "Cliente - Estado": "BA",
+    "Cliente - Cidade": "SANTO ANTONIO DE JESUS",
+    "rua": "AV LUIS VIANA,101-,44571-019"
+  },
+  {
+    "Cliente - Nome": "CONSTRUCOLOR COM DE TINTAS LTDA",
+    "Cliente - CNPJ": 78515624000139,
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "BLUMENAU",
+    "rua": "AV  LISBOA,193-,89052-600"
+  },
+  {
+    "Cliente - Nome": "COOPERUTIL COOP FORN MAT CONS P FUNDO LTDA",
+    "Cliente - CNPJ": 14421700000164,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "COXILHA",
+    "rua": "ROD EST RS 135,6800-,99145-000"
+  },
+  {
+    "Cliente - Nome": "CUIABANA COM DE TINTAS E FER LTDA ME",
+    "Cliente - CNPJ": 10526684000113,
+    "Cliente - Estado": "MT",
+    "Cliente - Cidade": "CUIABA",
+    "rua": "AV MANOEL JOSE DE ARRUDA,1000-BEIRA RIO,78070-305"
+  },
+  {
+    "Cliente - Nome": "DECORTEC TINTAS LTDA EPP",
+    "Cliente - CNPJ": 10473089000248,
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "BALNEARIO CAMBORIU",
+    "rua": "R 970,931-,88330-588"
+  },
+  {
+    "Cliente - Nome": "FERNANDES & GONCALVES DE ASSIS LTDA ME",
+    "Cliente - CNPJ": 66639733000189,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "ASSIS",
+    "rua": "AV MARCHAL DEODORO,580-,19807-155"
+  },
+  {
+    "Cliente - Nome": "GRAFULIN PESSANO & CIA LTDA",
+    "Cliente - CNPJ": 98411416000105,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "URUGUAIANA",
+    "rua": "AV DUQUE DE CAXIAS,2757-,97500-183"
+  },
+  {
+    "Cliente - Nome": "HOME CENTER JACARE MATERIAL DE CONSTRUCOES E MADEIRAS LTDA",
+    "Cliente - CNPJ": 10600446000100,
+    "Cliente - Estado": "MA",
+    "Cliente - Cidade": "SAO LUIS",
+    "rua": "AV  DANIEL DE LA TOUCHE,1-GL 1,65074-115"
+  },
+  {
+    "Cliente - Nome": "IMPORTADORA OPLIMA LTDA",
+    "Cliente - CNPJ": "04945481000169",
+    "Cliente - Estado": "PA",
+    "Cliente - Cidade": "BELEM",
+    "rua": "R  MUNICIPALIDADE,1157-TER,66050-350"
+  },
+  {
+    "Cliente - Nome": "IRMAOS QUEIROZ LTDA",
+    "Cliente - CNPJ": 13509849000137,
+    "Cliente - Estado": "BA",
+    "Cliente - Cidade": "SALVADOR",
+    "rua": "AV  SAN MARTIN,244-,40355-000"
+  },
+  {
+    "Cliente - Nome": "JOMAR TINTAS LTDA",
+    "Cliente - CNPJ": 65121287000153,
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "UNAI",
+    "rua": "R PREF JOAO COSTA,1041-,38610-000"
+  },
+  {
+    "Cliente - Nome": "LOJAS DE DEPARTAMENTOS MILIUM LTDA",
+    "Cliente - CNPJ": 83240333000115,
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "JOINVILLE",
+    "rua": "AV SANTOS DUMONT,4221-,89219-730"
+  },
+  {
+    "Cliente - Nome": "NICOM COM DE MATS PARA CONSTRUCOES LTDA",
+    "Cliente - CNPJ": 60403110000630,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "R DR ABELARDO VERGUEIRO CESAR,2-,04635-080"
+  },
+  {
+    "Cliente - Nome": "OUTLET CORAL COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": 31099440000252,
+    "Cliente - Estado": "BA",
+    "Cliente - Cidade": "LAURO DE FREITAS",
+    "rua": "AV SANTOS DUMONT,1926-LJ 10,42702-400"
+  },
+  {
+    "Cliente - Nome": "P H E TINTAS HIDRAULICA E ELETRICA LTDA",
+    "Cliente - CNPJ": "02364587001387",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "CAMPINAS",
+    "rua": "R DARIO FREIRE MEIRELLES,275-,13082-045"
+  },
+  {
+    "Cliente - Nome": "PALACIO DAS TINTAS DE MARILIA LTDA",
+    "Cliente - CNPJ": 56784812000120,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "MARILIA",
+    "rua": "AV  TIRADENTES,782-,17519-000"
+  },
+  {
+    "Cliente - Nome": "PERUZZO TINTAS LTDA",
+    "Cliente - CNPJ": 93093565000575,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "GRAVATAI",
+    "rua": "R YOLI BITENCOURT,1337-,94035-181"
+  },
+  {
+    "Cliente - Nome": "PLANALTO TINTAS LTDA",
+    "Cliente - CNPJ": 26390229000173,
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "BELO HORIZONTE",
+    "rua": "AV DR CRISTIANO GUIMARAES,1972-,31720-300"
+  },
+  {
+    "Cliente - Nome": "POTIGUAR MATS DE CONSTRUCAO LTDA",
+    "Cliente - CNPJ": "06778591000702",
+    "Cliente - Estado": "MA",
+    "Cliente - Cidade": "SAO LUIS",
+    "rua": "AV DOS FRANCESES,35-B,65055-085"
+  },
+  {
+    "Cliente - Nome": "REDE CONSTRUIR CENTRAL DE COMPRAS LTDA",
+    "Cliente - CNPJ": 23726733000103,
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "GASPAR",
+    "rua": "R BRUNO CELSO ZIMMERMANN,100-GP 3,89110-000"
+  },
+  {
+    "Cliente - Nome": "ROCHA 8 TINTAS E EQUIPAMENTOS LTDA EPP",
+    "Cliente - CNPJ": 13585764000138,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "GRAVATAI",
+    "rua": "AV ELY CORREA,630-,94185-452"
+  },
+  {
+    "Cliente - Nome": "RONSY COM DE MATS DE CONSTR LTDA",
+    "Cliente - CNPJ": "09525380000152",
+    "Cliente - Estado": "RO",
+    "Cliente - Cidade": "PORTO VELHO",
+    "rua": "AV GOV JORGE TEIXEIRA,2105-,76803-895"
+  },
+  {
+    "Cliente - Nome": "RONSY COMERCIAL DE FERRAGENS LTDA",
+    "Cliente - CNPJ": 16920620000189,
+    "Cliente - Estado": "AC",
+    "Cliente - Cidade": "EPITACIOLANDIA",
+    "rua": "AV  AMAZONAS,390-,69934-000"
+  },
+  {
+    "Cliente - Nome": "TINTAS ROCHA LTDA",
+    "Cliente - CNPJ": "02340825000261",
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "FLORIANOPOLIS",
+    "rua": "R CEL PEDRO DEMORO,1780-,88075-300"
+  },
+  {
+    "Cliente - Nome": "TINTAS VILA VELHA EIRELI",
+    "Cliente - CNPJ": 34594595000253,
+    "Cliente - Estado": "ES",
+    "Cliente - Cidade": "SERRA",
+    "rua": "ROD NORTE SUL,SN-LJ 2,29168-078"
+  },
+  {
+    "Cliente - Nome": "TINTAS VILA VELHA EIRELI",
+    "Cliente - CNPJ": 34594595000172,
+    "Cliente - Estado": "ES",
+    "Cliente - Cidade": "VILA VELHA",
+    "rua": "AV CARLOS LINDENBERG,2155-,29108-075"
+  },
+  {
+    "Cliente - Nome": "TINTOLAC COMERCIAL LTDA",
+    "Cliente - CNPJ": 36371920000163,
+    "Cliente - Estado": "ES",
+    "Cliente - Cidade": "SERRA",
+    "rua": "ROD GOV MARIO COVAS,2930-KM 269.1 LT15 QDR7,29164-038"
+  },
+  {
+    "Cliente - Nome": "TINTOMAX COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": "04464847000188",
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "JOINVILLE",
+    "rua": "AV  GETULIO VARGAS,1169-,89202-295"
+  },
+  {
+    "Cliente - Nome": "TOK RETOK TINTAS LTDA",
+    "Cliente - CNPJ": "00765788000127",
+    "Cliente - Estado": "MA",
+    "Cliente - Cidade": "SAO LUIS",
+    "rua": "AV JERONIMO DE ALBUQUERQUE,58-,65051-210"
+  },
+  {
+    "Cliente - Nome": "VOTOTINTAS COM TINTAS E MATS CONSTR LTDA",
+    "Cliente - CNPJ": "01916409000115",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "VOTORANTIM",
+    "rua": "R PAULA NEY,1203-,18110-045"
+  },
+  {
+    "Cliente - Nome": "A C BALSALOBRE MAT DE CONSTRUCAO LTDA",
+    "Cliente - CNPJ": "09640552000139",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "CAMPINAS",
+    "rua": "AV SUACUNA,205-,13054-105"
+  },
+  {
+    "Cliente - Nome": "A R OLIVEIRA EIRELI",
+    "Cliente - CNPJ": 63594923000139,
+    "Cliente - Estado": "AC",
+    "Cliente - Cidade": "RIO BRANCO",
+    "rua": "R RIO DE JANEIRO,1115-,69909-710"
+  },
+  {
+    "Cliente - Nome": "AEROTINTAS COMERCIAL LTDA",
+    "Cliente - CNPJ": 67331538000311,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV  MORUMBI,8281-,04703-004"
+  },
+  {
+    "Cliente - Nome": "AGRO COMERCIAL AFUBRA LTDA",
+    "Cliente - CNPJ": 74072513000578,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "VENANCIO AIRES",
+    "rua": "R OSVALDO ARANHA,1659-,95800-000"
+  },
+  {
+    "Cliente - Nome": "AGUINALDO FERREIRA ALONSO ME",
+    "Cliente - CNPJ": "02929692000182",
+    "Cliente - Estado": "RO",
+    "Cliente - Cidade": "PORTO VELHO",
+    "rua": "AV BRASILIA,1352-,76841-000"
+  },
+  {
+    "Cliente - Nome": "AJ BOZOLI TINTAS",
+    "Cliente - CNPJ": 96659255000130,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO JOSE DO RIO PRETO",
+    "rua": "R GEN GLICERIO,4299-,15015-400"
+  },
+  {
+    "Cliente - Nome": "AL COMERCIO VAREJISTA DE TINTAS LTDA ME",
+    "Cliente - CNPJ": 27118642000146,
+    "Cliente - Estado": "BA",
+    "Cliente - Cidade": "SALVADOR",
+    "rua": "AV VASCO DA GAMA,936-,40230-731"
+  },
+  {
+    "Cliente - Nome": "ALMEIDA COR E TINTAS LTDA - ME",
+    "Cliente - CNPJ": "02080798000154",
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "BELO HORIZONTE",
+    "rua": "R ITAPECERICA,969-,31210-030"
+  },
+  {
+    "Cliente - Nome": "ALMEIDA E MAIA MAT DE CONSTRUCAO LTDA",
+    "Cliente - CNPJ": "08678892000196",
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "MONTES CLAROS",
+    "rua": "AV DEPUTADO PLINIO RIBEIRO,490-,39401-222"
+  },
+  {
+    "Cliente - Nome": "ALPENDRE TINTAS E FERRAGENS LTDA EPP",
+    "Cliente - CNPJ": "08205216000103",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV  MUTINGA,1635-,05110-000"
+  },
+  {
+    "Cliente - Nome": "ALPENDRE TINTAS E FERRAGENS LTDA EPP",
+    "Cliente - CNPJ": "08205216000103",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV  MUTINGA,1635-,05110-000"
+  },
+  {
+    "Cliente - Nome": "ALVES DE LIMA & ZORDAN LTDA EPP",
+    "Cliente - CNPJ": "01530258000162",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "RIBEIRAO PRETO",
+    "rua": "AV  MONTEIRO LOBATO,1020-,14030-520"
+  },
+  {
+    "Cliente - Nome": "AMARELO ANIL TINTAS LTDA EPP",
+    "Cliente - CNPJ": 65621377000103,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "R NATINGUI,721-,05443-000"
+  },
+  {
+    "Cliente - Nome": "AMARELO ANIL TINTAS LTDA EPP",
+    "Cliente - CNPJ": 65621377000103,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "R NATINGUI,721-,05443-000"
+  },
+  {
+    "Cliente - Nome": "AMERICA COM DE TINTAS DE MARILIA LTDA",
+    "Cliente - CNPJ": "07653260000105",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "MARILIA",
+    "rua": "AV TIRADENTES,1293-LETRA B,17500-022"
+  },
+  {
+    "Cliente - Nome": "ANTONACCI TINTAS LTDA ME",
+    "Cliente - CNPJ": "03908705000108",
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "CONTAGEM",
+    "rua": "R TIRADENTES 2928 3 SECAO,2928-SECAO,32230-020"
+  },
+  {
+    "Cliente - Nome": "ARMAZEM BEIRA MAR LTDA",
+    "Cliente - CNPJ": 35533991000152,
+    "Cliente - Estado": "PE",
+    "Cliente - Cidade": "RECIFE",
+    "rua": "AV DOMINGOS FERREIRA,40-,51011-050"
+  },
+  {
+    "Cliente - Nome": "ARMAZEM CORAL LTDA",
+    "Cliente - CNPJ": 11623188000140,
+    "Cliente - Estado": "PE",
+    "Cliente - Cidade": "RECIFE",
+    "rua": "R DAS CALCADAS-C/RUA PADRE FLORIANO,174-196/208-35/47/63/67,50020-290"
+  },
+  {
+    "Cliente - Nome": "ARMAZEM DAS CORES COM DE TINTAS LTDA",
+    "Cliente - CNPJ": "06262104000231",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "ITAQUAQUECETUBA",
+    "rua": "EST ALBERTO HINOTO,6080-,08588-001"
+  },
+  {
+    "Cliente - Nome": "ARTCOR FUTURA TINTAS LTDA - ME",
+    "Cliente - CNPJ": 11871114000123,
+    "Cliente - Estado": "RJ",
+    "Cliente - Cidade": "RIO DAS OSTRAS",
+    "rua": "AL CAMPOMAR,1517-LOJA QUADRA28 LOTE 05,28890-281"
+  },
+  {
+    "Cliente - Nome": "AS COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": 10544334000180,
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "CRICIUMA",
+    "rua": "R  JOAO PESSOA,649-,88801-530"
+  },
+  {
+    "Cliente - Nome": "ASSCOM ASSOCIACAO DE COMPRAS",
+    "Cliente - CNPJ": 10595883000183,
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "BLUMENAU",
+    "rua": "R DR PEDRO ZIMMERMANN,11956-BL A,89075-000"
+  },
+  {
+    "Cliente - Nome": "ATACADAO DAS TINTAS LTDA",
+    "Cliente - CNPJ": "00830498000110",
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "BELO HORIZONTE",
+    "rua": "R  JACUI,3501-,31160-190"
+  },
+  {
+    "Cliente - Nome": "AUTO TINTAS UNIAO LTDA",
+    "Cliente - CNPJ": 21924295000324,
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "UBERLANDIA",
+    "rua": "AV  BELO HORIZONTE,575-,38400-454"
+  },
+  {
+    "Cliente - Nome": "B L PINTO",
+    "Cliente - CNPJ": 11793192000157,
+    "Cliente - Estado": "AP",
+    "Cliente - Cidade": "SANTANA",
+    "rua": "R ADALVARO ALVES CAVALCANTE,595-B,68925-189"
+  },
+  {
+    "Cliente - Nome": "BELA TINTAS LTDA",
+    "Cliente - CNPJ": "01154956002669",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "GUARULHOS",
+    "rua": "AV BRIGADEIRO FARIA LIMA,874-,07130-000"
+  },
+  {
+    "Cliente - Nome": "BELA TINTAS LTDA",
+    "Cliente - CNPJ": "01154956002820",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "ITAQUAQUECETUBA",
+    "rua": "EST DE SANTA ISABEL,1011-,08577-010"
+  },
+  {
+    "Cliente - Nome": "BELA TINTAS LTDA",
+    "Cliente - CNPJ": "01154956000453",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "R  JOAO MANOEL DE MATOS,25-,03266-140"
+  },
+  {
+    "Cliente - Nome": "BELA TINTAS LTDA",
+    "Cliente - CNPJ": "01154956000453",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "R  JOAO MANOEL DE MATOS,25-,03266-140"
+  },
+  {
+    "Cliente - Nome": "BETTONI COM DE TINTAS LTDA EPP",
+    "Cliente - CNPJ": 89822217000190,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "CAXIAS DO SUL",
+    "rua": "R  VINTE DE SETEMBRO,3144-,95020-450"
+  },
+  {
+    "Cliente - Nome": "BLEY S COMERCIAL DE TINTAS LTDA",
+    "Cliente - CNPJ": 72228794000407,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "NOVO HAMBURGO",
+    "rua": "R GEN DALTRO FILHO,1671-,93540-000"
+  },
+  {
+    "Cliente - Nome": "BLUE TINTAS LTDA",
+    "Cliente - CNPJ": "01050029000906",
+    "Cliente - Estado": "SE",
+    "Cliente - Cidade": "ARACAJU",
+    "rua": "AV  ADELIA FRANCO,3006-,49048-010"
+  },
+  {
+    "Cliente - Nome": "BMB MATERIAL DE CONSTRUCAO S A",
+    "Cliente - CNPJ": 23476033000299,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV DO ESTADO,6313-,03105-005"
+  },
+  {
+    "Cliente - Nome": "BMB MATERIAL DE CONSTRUCAO S A",
+    "Cliente - CNPJ": 23476033000299,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV DO ESTADO,6313-,03105-005"
+  },
+  {
+    "Cliente - Nome": "BOTTINO MATERIAIS DE CONSTRUCAO LTDA",
+    "Cliente - CNPJ": "05879152000987",
+    "Cliente - Estado": "RJ",
+    "Cliente - Cidade": "RIO DE JANEIRO",
+    "rua": "AV  DAS AMERICAS,21783-,22790-851"
+  },
+  {
+    "Cliente - Nome": "BRASCAMPO PROD AGROPECUARIOS LTDA",
+    "Cliente - CNPJ": "05808085000152",
+    "Cliente - Estado": "MS",
+    "Cliente - Cidade": "CAMPO GRANDE",
+    "rua": "AV CALOGERAS,784-,79004-380"
+  },
+  {
+    "Cliente - Nome": "CAMALEAO COMERCIO & IMPORTACAO LTDA",
+    "Cliente - CNPJ": "03477317000101",
+    "Cliente - Estado": "AP",
+    "Cliente - Cidade": "MACAPA",
+    "rua": "ROD  BR 156,1579-,68909-094"
+  },
+  {
+    "Cliente - Nome": "CASA & TINTA COMERCIAL LTDA",
+    "Cliente - CNPJ": 20841771000976,
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "BELO HORIZONTE",
+    "rua": "R CONQUISTA,181-,30710-160"
+  },
+  {
+    "Cliente - Nome": "CASA & TINTA COMERCIAL LTDA",
+    "Cliente - CNPJ": 20841771002758,
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "CONTAGEM",
+    "rua": "AV JOSE FARIA DA ROCHA,4985-LJ 01,32310-210"
+  },
+  {
+    "Cliente - Nome": "CASA DAS CORES COM DE TINTAS LTDA",
+    "Cliente - CNPJ": "01869728000117",
+    "Cliente - Estado": "MS",
+    "Cliente - Cidade": "CAMPO GRANDE",
+    "rua": "R 13 DE MAIO,1860-,79004-423"
+  },
+  {
+    "Cliente - Nome": "CASA DAS TINTAS COMERCIAL LTDA",
+    "Cliente - CNPJ": 13073747001436,
+    "Cliente - Estado": "SE",
+    "Cliente - Cidade": "ARACAJU",
+    "rua": "R 12-B SANTA MARIA,194-LT 20 QD 02,49044-166"
+  },
+  {
+    "Cliente - Nome": "CASA DAS TINTAS DE ANAPOLIS LTDA",
+    "Cliente - CNPJ": 33229030000638,
+    "Cliente - Estado": "GO",
+    "Cliente - Cidade": "GOIANIA",
+    "rua": "AV  PIO XII,419-Q 94 LT 3 E 4,74425-098"
+  },
+  {
+    "Cliente - Nome": "CASA DAS TINTAS MABA LTDA",
+    "Cliente - CNPJ": 83619163000184,
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "JARAGUA DO SUL",
+    "rua": "R EXP CABO HARRY HADLICH,47-,89251-380"
+  },
+  {
+    "Cliente - Nome": "CASA DAS TINTAS MOOCA EIRELI",
+    "Cliente - CNPJ": 25055825000134,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "GUARULHOS",
+    "rua": "AV RIO REAL,118-,07170-000"
+  },
+  {
+    "Cliente - Nome": "CASA DAS TINTAS SAO BENTO LTDA",
+    "Cliente - CNPJ": 82770942000113,
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "SAO BENTO DO SUL",
+    "rua": "R ANTONIO KAESEMODEL,903-,89287-465"
+  },
+  {
+    "Cliente - Nome": "CASA DE TINTAS MANOLO LTDA",
+    "Cliente - CNPJ": 53469029000183,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "R MARIA AMALIA L AZEVEDO,987-,02350-000"
+  },
+  {
+    "Cliente - Nome": "CASA DE TINTAS MANOLO LTDA",
+    "Cliente - CNPJ": 53469029000183,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "R MARIA AMALIA L AZEVEDO,987-,02350-000"
+  },
+  {
+    "Cliente - Nome": "CASA DE TINTAS TINTI LTDA ME",
+    "Cliente - CNPJ": 44550549000125,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "Avenida Jardim Japão,247-Anexo 251,02221-000"
+  },
+  {
+    "Cliente - Nome": "CASA DE TINTAS TINTI LTDA ME",
+    "Cliente - CNPJ": 44550549000125,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "Avenida Jardim Japão,247-Anexo 251,02221-000"
+  },
+  {
+    "Cliente - Nome": "CASA TONI COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": 59428847000114,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "PC  CIVICA,51-,05050-060"
+  },
+  {
+    "Cliente - Nome": "CASA TONI COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": 59428847000114,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "PC  CIVICA,51-,05050-060"
+  },
+  {
+    "Cliente - Nome": "CASA UNIVERSAL LTDA",
+    "Cliente - CNPJ": 14208136000104,
+    "Cliente - Estado": "AM",
+    "Cliente - Cidade": "MANAUS",
+    "rua": "AV  FLORIANO PEIXOTO,210-,69005-070"
+  },
+  {
+    "Cliente - Nome": "CASAS DA AGUA MATERIAIS PARA CONSTRUCAO LTDA",
+    "Cliente - CNPJ": 75362160000180,
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "SAO JOSE",
+    "rua": "AV PRES KENNEDY,1284-,88102-400"
+  },
+  {
+    "Cliente - Nome": "CASSOL MATERIAIS DE CONSTRUCAO LTDA",
+    "Cliente - CNPJ": 75400218001457,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "PORTO ALEGRE",
+    "rua": "AV  FRANCISCO SILVEIRA BITENCOURT,1295-,91150-010"
+  },
+  {
+    "Cliente - Nome": "CCS TINTAS E MATERIAIS PARA CONSTRUCAO LTDA",
+    "Cliente - CNPJ": "04031602000167",
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "UBERABA",
+    "rua": "R  VERISSIMO,382-,38022-090"
+  },
+  {
+    "Cliente - Nome": "CD MAX IND E COM DE TINTAS LTDA",
+    "Cliente - CNPJ": "00777674001330",
+    "Cliente - Estado": "MS",
+    "Cliente - Cidade": "CAMPO GRANDE",
+    "rua": "R TREZE MAIO,544-QD 07 LT D,79004-420"
+  },
+  {
+    "Cliente - Nome": "CD MAX IND E COM DE TINTAS LTDA",
+    "Cliente - CNPJ": "00777674000873",
+    "Cliente - Estado": "MT",
+    "Cliente - Cidade": "CUIABA",
+    "rua": "AV  MARIO CORREA,260-,78025-140"
+  },
+  {
+    "Cliente - Nome": "CENTRAL COM DE TINTAS LTDA ME",
+    "Cliente - CNPJ": 13761344000165,
+    "Cliente - Estado": "PR",
+    "Cliente - Cidade": "MARINGA",
+    "rua": "AV  BRASIL,2469-,87050-000"
+  },
+  {
+    "Cliente - Nome": "CENTRO DE DISTRIB MAT DE CONSTRUCAO MG LTDA",
+    "Cliente - CNPJ": "09573134000338",
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "MONTES CLAROS",
+    "rua": "AV GOVERNADOR MAGALHAES PINTO,6251-BLOCO A LOJA 2,39404-166"
+  },
+  {
+    "Cliente - Nome": "CHUVEIRAO COM DE MAT PARA CONSTRUCAO LTDA",
+    "Cliente - CNPJ": "08378660000112",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "PRESIDENTE PRUDENTE",
+    "rua": "AV BRASIL,1097-,19010-032"
+  },
+  {
+    "Cliente - Nome": "CIMEC COMERCIO SERVICOS IMPORTACAO E EXP LTDA",
+    "Cliente - CNPJ": "04843899000165",
+    "Cliente - Estado": "AC",
+    "Cliente - Cidade": "RIO BRANCO",
+    "rua": "V CHICO MENDES,2307-,69906-134"
+  },
+  {
+    "Cliente - Nome": "CLODOALDO & CIA LTDA",
+    "Cliente - CNPJ": 48031843000181,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "R  MARTIM FRANCISCO,507-19,01226-003"
+  },
+  {
+    "Cliente - Nome": "CLODOALDO & CIA LTDA",
+    "Cliente - CNPJ": 48031843000181,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "R  MARTIM FRANCISCO,507-19,01226-003"
+  },
+  {
+    "Cliente - Nome": "COCIL CONSTR CIVIS E INDUSTRIAIS LTDA",
+    "Cliente - CNPJ": "04386041000119",
+    "Cliente - Estado": "AM",
+    "Cliente - Cidade": "MANAUS",
+    "rua": "R PARA,66-,69053-070"
+  },
+  {
+    "Cliente - Nome": "CODERPLAST REPRES COMERCIAIS LTDA EPP",
+    "Cliente - CNPJ": 78839776000197,
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "SAO JOSE",
+    "rua": "ROD  BR CENTO E UM,SN-KM 202,88113-100"
+  },
+  {
+    "Cliente - Nome": "COLOR TINTAS DISTRIB LTDA",
+    "Cliente - CNPJ": "05238995000651",
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "IJUI",
+    "rua": "R  DO COMERCIO,575-TER,98700-000"
+  },
+  {
+    "Cliente - Nome": "COLOR TINTAS VENANCIO LTDA EPP",
+    "Cliente - CNPJ": 14370288000109,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "VENANCIO AIRES",
+    "rua": "R VOLUNTARIOS DA PATRIA,1900-,95800-000"
+  },
+  {
+    "Cliente - Nome": "COMERCIAL CATARINA EIRELI",
+    "Cliente - CNPJ": 21976210000190,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "ERECHIM",
+    "rua": "R ITALIA,698-,99700-066"
+  },
+  {
+    "Cliente - Nome": "COMERCIAL CHUVEIRAO DAS TINTAS LTDA",
+    "Cliente - CNPJ": 46431102002025,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "OURINHOS",
+    "rua": "R S PAULO,515-,19900-051"
+  },
+  {
+    "Cliente - Nome": "COMERCIAL CHUVEIRAO DAS TINTAS LTDA",
+    "Cliente - CNPJ": 46431102000162,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "PRESIDENTE PRUDENTE",
+    "rua": "AV BRASIL,325-347,19010-030"
+  },
+  {
+    "Cliente - Nome": "COMERCIAL DE TINTAS AUTOMOTIVAS LTDA",
+    "Cliente - CNPJ": 27904417000135,
+    "Cliente - Estado": "SE",
+    "Cliente - Cidade": "ARACAJU",
+    "rua": "R MANOEL ESPIRITO SANTO,468-,49025-440"
+  },
+  {
+    "Cliente - Nome": "COMERCIAL E INDUSTRIAL RONSY LTDA",
+    "Cliente - CNPJ": "02400983000189",
+    "Cliente - Estado": "AC",
+    "Cliente - Cidade": "RIO BRANCO",
+    "rua": "R S PAULO,500-,69900-276"
+  },
+  {
+    "Cliente - Nome": "COMERCIAL IVAIPORA LTDA",
+    "Cliente - CNPJ": 52744230141313,
+    "Cliente - Estado": "PR",
+    "Cliente - Cidade": "IVAIPORA",
+    "rua": "#N/A"
+  },
+  {
+    "Cliente - Nome": "COMERCIAL JAPURA LTDA ME",
+    "Cliente - CNPJ": 12986279000103,
+    "Cliente - Estado": "RN",
+    "Cliente - Cidade": "NATAL",
+    "rua": "AV AMINTAS BARROS,2747-LOTE LOTE 04,59062-350"
+  },
+  {
+    "Cliente - Nome": "COMERCIAL MENDES ROSA LTDA",
+    "Cliente - CNPJ": 49219173000194,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "FRANCA",
+    "rua": "R FR GERMANO,1984-,14405-215"
+  },
+  {
+    "Cliente - Nome": "COMERCIAL MULT TINTAS RIO PRETO LTDA",
+    "Cliente - CNPJ": 33559101000156,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO JOSE DO RIO PRETO",
+    "rua": "AV FELICIANO SALLES CUNHA,673-,15035-075"
+  },
+  {
+    "Cliente - Nome": "COMERCIO DE MAT DE CONST CARAMURU LTDA ME",
+    "Cliente - CNPJ": "00982274000123",
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "JOINVILLE",
+    "rua": "R  DOS MECANICOS,47-,89231-500"
+  },
+  {
+    "Cliente - Nome": "COMERCIO DE MAT DE CONST SILVA SALAH LTDA EPP",
+    "Cliente - CNPJ": "00113435000142",
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "JOINVILLE",
+    "rua": "R MARECHAL LUZ,898-,89230-868"
+  },
+  {
+    "Cliente - Nome": "COMERCIO DE MATERIAIS CONSTRUCAO STEIL EIRELI",
+    "Cliente - CNPJ": 83438739000107,
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "JOINVILLE",
+    "rua": "R HERMANN LANGE,239-,89219-160"
+  },
+  {
+    "Cliente - Nome": "COMERCIO DE TINTAS ALTO URUGUAI EIRELI - ME",
+    "Cliente - CNPJ": 15641993000158,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "ERECHIM",
+    "rua": "R MACHADO DE ASSIS,1010-,99704-256"
+  },
+  {
+    "Cliente - Nome": "COMERCIO DE TINTAS DO BOSQUE EIRELI",
+    "Cliente - CNPJ": 33626531000143,
+    "Cliente - Estado": "AC",
+    "Cliente - Cidade": "RIO BRANCO",
+    "rua": "R QUINTINO BOCAIUVA,1679-,69900-670"
+  },
+  {
+    "Cliente - Nome": "COMERCIO DE TINTAS GERHARDT LTDA",
+    "Cliente - CNPJ": "06102585000137",
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "NOVO HAMBURGO",
+    "rua": "AV CEL FREDERICO LINCK,441-PREDIO,93336-001"
+  },
+  {
+    "Cliente - Nome": "COMERCIO DE TINTAS MACHADO LIMITADA",
+    "Cliente - CNPJ": 49444870000149,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "GUARULHOS",
+    "rua": "AV  SANTOS DUMONT,440-,07180-270"
+  },
+  {
+    "Cliente - Nome": "COMERCIO DE TINTAS MAT ELETRICO E HID VERGINIA LTDA",
+    "Cliente - CNPJ": 84866342000189,
+    "Cliente - Estado": "PR",
+    "Cliente - Cidade": "CURITIBA",
+    "rua": "AV VER TOALDO TULIO,2185-LJ 2,82320-010"
+  },
+  {
+    "Cliente - Nome": "COMERCIO DE TINTAS MAT ELETRICO E HID VERGINIA LTDA",
+    "Cliente - CNPJ": 84866342003013,
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "FLORIANOPOLIS",
+    "rua": "ROD SC 405,2707-,88065-000"
+  },
+  {
+    "Cliente - Nome": "COMERCIO DE TINTAS MELO LTDA",
+    "Cliente - CNPJ": "02231801000193",
+    "Cliente - Estado": "GO",
+    "Cliente - Cidade": "GOIANIA",
+    "rua": "AV  T 7,566-,74210-260"
+  },
+  {
+    "Cliente - Nome": "COMERCIO MATERIAL CONSTRUCAO BENEVENUTTI LTDA ME",
+    "Cliente - CNPJ": 83205526000135,
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "JOINVILLE",
+    "rua": "R XV DE NOVEMBRO,5380-,89211-595"
+  },
+  {
+    "Cliente - Nome": "CONIBASE COM DE MAT P CONSTR LTDA",
+    "Cliente - CNPJ": 59784868000334,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV  ELISEU DE ALMEIDA,3100-,05533-000"
+  },
+  {
+    "Cliente - Nome": "CONIBASE COM DE MAT P CONSTR LTDA",
+    "Cliente - CNPJ": 59784868000334,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV  ELISEU DE ALMEIDA,3100-,05533-000"
+  },
+  {
+    "Cliente - Nome": "CONSMAT FORNECEDORA DE MAT PARA CONSTR LTDA",
+    "Cliente - CNPJ": 60416674000101,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV GEN ATALIBA LEONEL,2022-2034 46 50 56 60,02033-020"
+  },
+  {
+    "Cliente - Nome": "CONSMAT FORNECEDORA DE MAT PARA CONSTR LTDA",
+    "Cliente - CNPJ": 60416674000101,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV GEN ATALIBA LEONEL,2022-2034 46 50 56 60,02033-020"
+  },
+  {
+    "Cliente - Nome": "CONSTRUDECOR S A",
+    "Cliente - CNPJ": "03439316001659",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "CAMPINAS",
+    "rua": "ROD  DOM PEDRO I,SN-KM 127 KM KM 127 128 SN BOX 25,13091-903"
+  },
+  {
+    "Cliente - Nome": "CONSTRUDECOR S A",
+    "Cliente - CNPJ": "03439316002205",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "CARAPICUIBA",
+    "rua": "AV DES DOUTOR EDUARDO CUNHA DE ABREU,495-2 GALPAO,06328-330"
+  },
+  {
+    "Cliente - Nome": "CONSTRUDECOR S A",
+    "Cliente - CNPJ": "03439316001810",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "GUARULHOS",
+    "rua": "R  BARTOLOMEU DE GUSMAO,316-LT Q 20 26 PORT A,07024-010"
+  },
+  {
+    "Cliente - Nome": "CONSTRUDECOR S A",
+    "Cliente - CNPJ": "03439316006707",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "JUNDIAI",
+    "rua": "AV  ANTONIO FREDERICO OZANAN,6080-LJ 1,13215-276"
+  },
+  {
+    "Cliente - Nome": "CONSTRUDECOR S A",
+    "Cliente - CNPJ": "03439316007347",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "OSASCO",
+    "rua": "AV FRANZ VOEGELI,751-LOTE 7 E 8 QD A,06020-190"
+  },
+  {
+    "Cliente - Nome": "CONSTRUDECOR S A",
+    "Cliente - CNPJ": "03439316007002",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "RIBEIRAO PRETO",
+    "rua": "AVENIDA FABIO BARRETO,251-,14050-000"
+  },
+  {
+    "Cliente - Nome": "CONSTRUDECOR S A",
+    "Cliente - CNPJ": "03439316001730",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV S MIGUEL,8201-VL JACUI,08070-001"
+  },
+  {
+    "Cliente - Nome": "CONSTRUDECOR S A",
+    "Cliente - CNPJ": "03439316000768",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SOROCABA",
+    "rua": "AV PROFA IZORAIDA MARQUES PERES,401-LJ B,18048-110"
+  },
+  {
+    "Cliente - Nome": "CONSTRUDECOR S A",
+    "Cliente - CNPJ": "03439316001730",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV S MIGUEL,8201-VL JACUI,08070-001"
+  },
+  {
+    "Cliente - Nome": "CONSTRUDECOR S A",
+    "Cliente - CNPJ": "03439316000768",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SOROCABA",
+    "rua": "AV PROFA IZORAIDA MARQUES PERES,401-LJ B,18048-110"
+  },
+  {
+    "Cliente - Nome": "CONSTRUNET MATERIAIS DE CONSTRUCOES LTDA",
+    "Cliente - CNPJ": "08172676000174",
+    "Cliente - Estado": "DF",
+    "Cliente - Cidade": "BRASILIA",
+    "rua": "JD BOTANICO ETAPA 01 R 01 QD 01 LT 225,SN-,71680-362"
+  },
+  {
+    "Cliente - Nome": "CONSTRUNIAO MAT DE CONSTRUCAO LTDA EPP",
+    "Cliente - CNPJ": "03967184000151",
+    "Cliente - Estado": "PR",
+    "Cliente - Cidade": "IVAIPORA",
+    "rua": "PC PE IVES GUEGUEM,145-,86870-000"
+  },
+  {
+    "Cliente - Nome": "CONSTRUNOK ACABAMENTOS LTDA - ME",
+    "Cliente - CNPJ": 17122457000171,
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "MONTES CLAROS",
+    "rua": "AV GOV MAGALHAES PINTO,2191-,39401-427"
+  },
+  {
+    "Cliente - Nome": "CONSTRUSHOP CACARI MATERIAIS DE CONSTRUCAO LTDA",
+    "Cliente - CNPJ": "01429775000140",
+    "Cliente - Estado": "RR",
+    "Cliente - Cidade": "BOA VISTA",
+    "rua": "R DA BACABEIRA,224-,69307-717"
+  },
+  {
+    "Cliente - Nome": "CONSTRUSILVA COM DE MAT DE CONSTRUCAO LTDA EPP",
+    "Cliente - CNPJ": "00353934000107",
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "JOINVILLE",
+    "rua": "R OTTOKAR DOERFFEL,185-,89203-495"
+  },
+  {
+    "Cliente - Nome": "CONSTRUTINTAS COM LTDA",
+    "Cliente - CNPJ": 35279546000108,
+    "Cliente - Estado": "RN",
+    "Cliente - Cidade": "MOSSORO",
+    "rua": "AV ALBERTO MARANHAO,782-,59618-700"
+  },
+  {
+    "Cliente - Nome": "COPICAL CENTRO OESTE COM DE TINTAS LTDA EPP",
+    "Cliente - CNPJ": 71887590000245,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "OURINHOS",
+    "rua": "R DO EXPEDICIONARIO,952-PISO INFERIOR,19900-041"
+  },
+  {
+    "Cliente - Nome": "COPICAL COMERCIAL DE PINTURAS CAIO LTDA",
+    "Cliente - CNPJ": 44456739000188,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "BAURU",
+    "rua": "R PRIMEIRO DE AGOSTO 11,50-,17013-010"
+  },
+  {
+    "Cliente - Nome": "COPICAL PRUDENTINA COM DE TINTAS LTDA",
+    "Cliente - CNPJ": "06201604000182",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "PRESIDENTE PRUDENTE",
+    "rua": "AV QUATORZE DE SETEMBRO,94-,19013-380"
+  },
+  {
+    "Cliente - Nome": "COQUEIRO MATERIAIS PARA CONST LTDA",
+    "Cliente - CNPJ": 26997809000123,
+    "Cliente - Estado": "DF",
+    "Cliente - Cidade": "BRASILIA",
+    "rua": "R DA GAMELEIRA,490-,71693-163"
+  },
+  {
+    "Cliente - Nome": "CORES D TINTAS E ACESSORIOS EIRELI",
+    "Cliente - CNPJ": 28935566000205,
+    "Cliente - Estado": "BA",
+    "Cliente - Cidade": "SALVADOR",
+    "rua": "R DJALMA DUTRA,236-,40240-080"
+  },
+  {
+    "Cliente - Nome": "CORES DO RIO PINTURAS LTDA",
+    "Cliente - CNPJ": 13855477000109,
+    "Cliente - Estado": "RJ",
+    "Cliente - Cidade": "RIO DE JANEIRO",
+    "rua": "R SANTO CRISTO,283-,20220-304"
+  },
+  {
+    "Cliente - Nome": "COSTI COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": "02454674000191",
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "FARROUPILHA",
+    "rua": "R  JULIO DE CASTILHOS,593-SL 13,95180-000"
+  },
+  {
+    "Cliente - Nome": "CR2 COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": "09373760000119",
+    "Cliente - Estado": "DF",
+    "Cliente - Cidade": "BRASILIA",
+    "rua": "QD 102 CJ 4 LT 09 LJ 01 RESID OESTE,9 10-,71692-110"
+  },
+  {
+    "Cliente - Nome": "D ABRIL TINTAS MAT DE CONSTRUCAO E F LTDA ME",
+    "Cliente - CNPJ": 72727274000198,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV  JERIMANDUBA,724-,05181-000"
+  },
+  {
+    "Cliente - Nome": "D ABRIL TINTAS MAT DE CONSTRUCAO E F LTDA ME",
+    "Cliente - CNPJ": 72727274000198,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV  JERIMANDUBA,724-,05181-000"
+  },
+  {
+    "Cliente - Nome": "D DE SIQUEIRA COMERCIO DE TINTAS E MAT DE CONSTR",
+    "Cliente - CNPJ": 10229395000152,
+    "Cliente - Estado": "MT",
+    "Cliente - Cidade": "CUIABA",
+    "rua": "AV GOVERNADOR DANTE MARTINS DE OLIVEIRA,2979-QD 10 LT 01,78050-889"
+  },
+  {
+    "Cliente - Nome": "DAMIANI COM DE TINTAS LTDA",
+    "Cliente - CNPJ": "03762331000157",
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "CRICIUMA",
+    "rua": "AV  DOS IMIGRANTES,915-,88817-600"
+  },
+  {
+    "Cliente - Nome": "DANTECOLOR TINTAS LTDA",
+    "Cliente - CNPJ": 71800668000161,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO JOSE DO RIO PRETO",
+    "rua": "AV PRES J K DE OLIVEIRA,51-A,15091-450"
+  },
+  {
+    "Cliente - Nome": "DBM FRANCA COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": 36527325000174,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "FRANCA",
+    "rua": "R NELSON JAPAULO,2390-,14407-495"
+  },
+  {
+    "Cliente - Nome": "DCOR AMAIS TINTAS REPRESA LTDA",
+    "Cliente - CNPJ": 37255626000159,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO JOSE DO RIO PRETO",
+    "rua": "AV LINO JOSE DE SEIXAS,1235-,15061-165"
+  },
+  {
+    "Cliente - Nome": "DECOR PAINTS TINTAS EIRELI",
+    "Cliente - CNPJ": 30961655000197,
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "ITAJAI",
+    "rua": "R PEDRO GUERREIRO JUNIOR,46-,88301-482"
+  },
+  {
+    "Cliente - Nome": "DEPOSITO DE MADEIRA SAO LUIZLTDA",
+    "Cliente - CNPJ": 44604973000105,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "CAMPINAS",
+    "rua": "AV ARMANDO SALES OLIVEIRA,390-,13090-150"
+  },
+  {
+    "Cliente - Nome": "DEPOSITO JK LTDA",
+    "Cliente - CNPJ": 20708178000107,
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "DIVINOPOLIS",
+    "rua": "AV SETE DE SETEMBRO,104-,35500-188"
+  },
+  {
+    "Cliente - Nome": "DESTAQUE COMERCIO DE TINTAS EIRELI",
+    "Cliente - CNPJ": 34835889000149,
+    "Cliente - Estado": "DF",
+    "Cliente - Cidade": "BRASILIA",
+    "rua": "Q QI 11 BLOCO B LOTE,5-,71020-629"
+  },
+  {
+    "Cliente - Nome": "DG COMERCIO DE TINTAS LTDA - ME",
+    "Cliente - CNPJ": 19696794000106,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "BAURU",
+    "rua": "R ARAUJO LEITE QD,20 64-,17012-055"
+  },
+  {
+    "Cliente - Nome": "DG COMERCIO DE TINTAS LTDA - ME",
+    "Cliente - CNPJ": 19696794000289,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "OURINHOS",
+    "rua": "R PARA,557-LJ 2,19911-700"
+  },
+  {
+    "Cliente - Nome": "DIAMANTE COM DE TINTAS LTDA",
+    "Cliente - CNPJ": 59738088000196,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "CAMPINAS",
+    "rua": "AV  BENJAMIN CONSTANT,485-,13010-140"
+  },
+  {
+    "Cliente - Nome": "DIAMANTE COM DE TINTAS LTDA",
+    "Cliente - CNPJ": 59738088000358,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "RIBEIRAO PRETO",
+    "rua": "AV DA SAUDADE,1700-,14085-000"
+  },
+  {
+    "Cliente - Nome": "DISMONZA DISTRIB DE TINTAS E ABRASIVOS LTDA",
+    "Cliente - CNPJ": 84641331000443,
+    "Cliente - Estado": "RO",
+    "Cliente - Cidade": "PORTO VELHO",
+    "rua": "R  MIGUEL CHAKIAN,377-,76820-094"
+  },
+  {
+    "Cliente - Nome": "DISTRITAL COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": 23781742000105,
+    "Cliente - Estado": "DF",
+    "Cliente - Cidade": "BRASILIA",
+    "rua": "A ADE CONJUNTO 19 LOTE,37-PARTE A,71989-000"
+  },
+  {
+    "Cliente - Nome": "DIVINOPOLIS TINTAS LTDA",
+    "Cliente - CNPJ": 16762049000111,
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "DIVINOPOLIS",
+    "rua": "AV  AUTORAMA,200-,35501-221"
+  },
+  {
+    "Cliente - Nome": "DMD MAGIC TINTAS LTDA",
+    "Cliente - CNPJ": 36234241000142,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "MARILIA",
+    "rua": "AV TIRADENTES,864-,17519-000"
+  },
+  {
+    "Cliente - Nome": "DOMINGUES & FUGANHOLI LTDA",
+    "Cliente - CNPJ": 32227678000106,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "OURINHOS",
+    "rua": "R DO EXPEDICIONARIO,911-,19900-041"
+  },
+  {
+    "Cliente - Nome": "DOMINIK COM IND METAIS E EQUIPAMENTOS LTDA",
+    "Cliente - CNPJ": 72332794000100,
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "SAO JOSE",
+    "rua": "ROD BR CENTO E UM,255-KM 206,88113-650"
+  },
+  {
+    "Cliente - Nome": "DUCASTRO COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": 38486287000184,
+    "Cliente - Estado": "PR",
+    "Cliente - Cidade": "MARINGA",
+    "rua": "AV JOSE ALVES NENDO,8-,87045-260"
+  },
+  {
+    "Cliente - Nome": "E S C REGO COMERCIO DE MATERIAIS DE CONSTRUCAO",
+    "Cliente - CNPJ": 36005251000106,
+    "Cliente - Estado": "PA",
+    "Cliente - Cidade": "BELEM",
+    "rua": "AV CONSELHEIRO FURTADO,1298-,66035-350"
+  },
+  {
+    "Cliente - Nome": "ECF TINTAS LTDA EPP",
+    "Cliente - CNPJ": 65782328000152,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV MAL TITO,4837-,08115-100"
+  },
+  {
+    "Cliente - Nome": "ECF TINTAS LTDA EPP",
+    "Cliente - CNPJ": 65782328000152,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV MAL TITO,4837-,08115-100"
+  },
+  {
+    "Cliente - Nome": "ECONOMIZE MAIS TINTAS EIRELI",
+    "Cliente - CNPJ": 34713979000167,
+    "Cliente - Estado": "RJ",
+    "Cliente - Cidade": "RIO DE JANEIRO",
+    "rua": "EST DO MONTEIRO,468-LJ A,23045-830"
+  },
+  {
+    "Cliente - Nome": "EDSON CARLOS NOSCHANG JUNIOR LTDA",
+    "Cliente - CNPJ": 34745434000132,
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "ITAPEMA",
+    "rua": "AV TERCEIRA AVENIDA,313-,88220-000"
+  },
+  {
+    "Cliente - Nome": "EDU TINTAS EIRELLI EPP",
+    "Cliente - CNPJ": 20888660000168,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "GUARULHOS",
+    "rua": "R JARDIM ALEGRE,219-,07090-220"
+  },
+  {
+    "Cliente - Nome": "ELETROTINTAS COMERC LTDA",
+    "Cliente - CNPJ": 31779903000146,
+    "Cliente - Estado": "ES",
+    "Cliente - Cidade": "VITORIA",
+    "rua": "AV  LEITAO DA SILVA,1451-LJ 1,29046-005"
+  },
+  {
+    "Cliente - Nome": "ELLITE TINTAS LTDA ME",
+    "Cliente - CNPJ": 10621066000152,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "CANOAS",
+    "rua": "AV  SANTOS FERREIRA,721-,92020-001"
+  },
+  {
+    "Cliente - Nome": "ENGEFER DISTRIB EIRELI EM RECUPERACAO JUDICIAL",
+    "Cliente - CNPJ": "00940525000107",
+    "Cliente - Estado": "RJ",
+    "Cliente - Cidade": "RIO DE JANEIRO",
+    "rua": "R S LUIZ GONZAGA,2051-,20910-060"
+  },
+  {
+    "Cliente - Nome": "ESPINDOLA COMERCIO DE TINTAS EIRELI",
+    "Cliente - CNPJ": 34776325000182,
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "BALNEARIO CAMBORIU",
+    "rua": "R 2500,1130-LOJA FRENTE RUA 2550,88330-394"
+  },
+  {
+    "Cliente - Nome": "ESTACAO TINTAS LTDA ME",
+    "Cliente - CNPJ": 20228381000178,
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "UBERLANDIA",
+    "rua": "AV  FLORIANO PEIXOTO,3089-,38400-704"
+  },
+  {
+    "Cliente - Nome": "FERMACO LTDA ME",
+    "Cliente - CNPJ": 28126738000119,
+    "Cliente - Estado": "ES",
+    "Cliente - Cidade": "VITORIA",
+    "rua": "R GEN OSORIO,168-LJ 1,29010-030"
+  },
+  {
+    "Cliente - Nome": "FERRAGEM PARATI LTDA EPP",
+    "Cliente - CNPJ": "00942872000330",
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "PORTO ALEGRE",
+    "rua": "AV  SATURNINO DE BRITO,1550-,91320-001"
+  },
+  {
+    "Cliente - Nome": "FERREIRA COSTA & CIA LTDA",
+    "Cliente - CNPJ": 10230480001102,
+    "Cliente - Estado": "BA",
+    "Cliente - Cidade": "SALVADOR",
+    "rua": "AV LUIZ VIANNA,6180-SUBS A 1 SUBDIST DE ITAPOAN,41730-101"
+  },
+  {
+    "Cliente - Nome": "FERREIRA COSTA & CIA LTDA",
+    "Cliente - CNPJ": 10230480002699,
+    "Cliente - Estado": "PB",
+    "Cliente - Cidade": "JOAO PESSOA",
+    "rua": "RUA EDSON FALCONI DE MELO,555-GALPAO 01,58036-500"
+  },
+  {
+    "Cliente - Nome": "FERREIRA COSTA & CIA LTDA",
+    "Cliente - CNPJ": 10230480001536,
+    "Cliente - Estado": "PE",
+    "Cliente - Cidade": "RECIFE",
+    "rua": "AV MAL MASCARENHAS DE MORAES 2629,2967-,51150-905"
+  },
+  {
+    "Cliente - Nome": "FERREIRA COSTA & CIA LTDA",
+    "Cliente - CNPJ": 10230480002346,
+    "Cliente - Estado": "SE",
+    "Cliente - Cidade": "ARACAJU",
+    "rua": "AV PRES TANCREDO NEVES,2695-SUBSL E 2 AND,49040-500"
+  },
+  {
+    "Cliente - Nome": "FISCHER COMERCIO DE TINTAS EM A LTDA EPP",
+    "Cliente - CNPJ": "06022598000104",
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "JARAGUA DO SUL",
+    "rua": "R NEI FRANCO,540-SALA 01,89256-100"
+  },
+  {
+    "Cliente - Nome": "FLUZAO ATACADAO DA CONSTRUCAO LTDA EPP",
+    "Cliente - CNPJ": 14458674000149,
+    "Cliente - Estado": "RJ",
+    "Cliente - Cidade": "RIO DE JANEIRO",
+    "rua": "AV ENG SOUZA FILHO,1000-LOJA A,22753-053"
+  },
+  {
+    "Cliente - Nome": "FMJ COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": 23045334000691,
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "UBERABA",
+    "rua": "AV BARAO DO RIO BRANCO,701-A,38020-300"
+  },
+  {
+    "Cliente - Nome": "FMJ COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": 23045334000853,
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "UBERLANDIA",
+    "rua": "AV BELO HORIZONTE,747-B,38400-454"
+  },
+  {
+    "Cliente - Nome": "FORNECEDORA CHATUBA DE NILOPOLIS LTDA",
+    "Cliente - CNPJ": 29911559000902,
+    "Cliente - Estado": "RJ",
+    "Cliente - Cidade": "RIO DE JANEIRO",
+    "rua": "R  FELIPE CARDOSO,1150-,23520-572"
+  },
+  {
+    "Cliente - Nome": "FORTCOLOR TINTAS E VERNIZES LTDA",
+    "Cliente - CNPJ": 41334079000255,
+    "Cliente - Estado": "CE",
+    "Cliente - Cidade": "FORTALEZA",
+    "rua": "AV  SANTOS DUMONT,3715-,60150-165"
+  },
+  {
+    "Cliente - Nome": "FRANCA CASA DE TINTAS LTDA ME",
+    "Cliente - CNPJ": "09316682000110",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "FRANCA",
+    "rua": "AV  BRASIL,1185-,14401-234"
+  },
+  {
+    "Cliente - Nome": "FRANCA CORES LTDA - EPP",
+    "Cliente - CNPJ": 26114947000117,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "FRANCA",
+    "rua": "R PADRE ANCHIETA,2422-,14400-740"
+  },
+  {
+    "Cliente - Nome": "FRANCISCHETTO COMERCIO E INDUSTRIA DE M LTDA",
+    "Cliente - CNPJ": 27465582000138,
+    "Cliente - Estado": "ES",
+    "Cliente - Cidade": "VILA VELHA",
+    "rua": "ROD DO SOL,SN-KM 8,29129-015"
+  },
+  {
+    "Cliente - Nome": "FURLANETTO COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": 92379510000130,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "GARIBALDI",
+    "rua": "TV  RAUL CISILOTTO,90-,95720-000"
+  },
+  {
+    "Cliente - Nome": "GERAL COMERCIO DE TINTAS E VERNIZES LTDA",
+    "Cliente - CNPJ": 65532228000178,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "R  SERRA DE BRAGANCA,1277-,03318-000"
+  },
+  {
+    "Cliente - Nome": "GERAL COMERCIO DE TINTAS E VERNIZES LTDA",
+    "Cliente - CNPJ": 65532228000178,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "R  SERRA DE BRAGANCA,1277-,03318-000"
+  },
+  {
+    "Cliente - Nome": "GIACOMIN COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": 32623888000296,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "CAXIAS DO SUL",
+    "rua": "R BENTO GONCALVES,1301-SALA TERREA,95020-411"
+  },
+  {
+    "Cliente - Nome": "GIGANTE DAS TINTAS LTDA",
+    "Cliente - CNPJ": 19369987000225,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "FRANCA",
+    "rua": "R ALEXANDRE BITTAR SABIO DE MELLO,3121-,14406-098"
+  },
+  {
+    "Cliente - Nome": "GOLDEN TINTAS LTDA EPP",
+    "Cliente - CNPJ": "05495159000148",
+    "Cliente - Estado": "DF",
+    "Cliente - Cidade": "BRASILIA",
+    "rua": "Q QS 410 CJ L LT 04 LJS 01  E  02,SN-,72320-532"
+  },
+  {
+    "Cliente - Nome": "HOME CENTER NORDESTE COM MAT CONSTRUCAO S.A",
+    "Cliente - CNPJ": "08197731001071",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO JOSE DO RIO PRETO",
+    "rua": "AV MARIO ANDREAZZA,221-,15081-490"
+  },
+  {
+    "Cliente - Nome": "HORIZONTE TINTAS LTDA ME",
+    "Cliente - CNPJ": "01390045000182",
+    "Cliente - Estado": "PR",
+    "Cliente - Cidade": "LONDRINA",
+    "rua": "R BELO HORIZONTE,337-,86020-060"
+  },
+  {
+    "Cliente - Nome": "HUMAITA COM DE TINTAS E SERVICOS EIRELI",
+    "Cliente - CNPJ": 33564241000112,
+    "Cliente - Estado": "RJ",
+    "Cliente - Cidade": "RIO DE JANEIRO",
+    "rua": "R HUMAITA,160-,22261-002"
+  },
+  {
+    "Cliente - Nome": "ILHA TINTAS LTDA",
+    "Cliente - CNPJ": "03806042000102",
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "FLORIANOPOLIS",
+    "rua": "ROD  JOAO GUALBERTO SOARES,1199-,88058-300"
+  },
+  {
+    "Cliente - Nome": "IMPERIO COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": 30060811000149,
+    "Cliente - Estado": "PB",
+    "Cliente - Cidade": "JOAO PESSOA",
+    "rua": "AV JUAREZ TAVORA,1140-SL 101 E 102,58040-020"
+  },
+  {
+    "Cliente - Nome": "IMPERIO DAS TINTAS LTDA",
+    "Cliente - CNPJ": 33359618000100,
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "GOVERNADOR VALADARES",
+    "rua": "R SAO PAULO,945-,35010-180"
+  },
+  {
+    "Cliente - Nome": "INOVA TINTAS LTDA",
+    "Cliente - CNPJ": 32250010000171,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "RUA APA,303-ANEXO 309,01201-030"
+  },
+  {
+    "Cliente - Nome": "INOVA TINTAS LTDA",
+    "Cliente - CNPJ": 32250010000171,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "RUA APA,303-ANEXO 309,01201-030"
+  },
+  {
+    "Cliente - Nome": "INOVE COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": 10856568000162,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "ERECHIM",
+    "rua": "AV  JOSE OSCAR SALAZAR,1545-,99700-000"
+  },
+  {
+    "Cliente - Nome": "IRMAOS PEPE LTDA",
+    "Cliente - CNPJ": 37061769000634,
+    "Cliente - Estado": "DF",
+    "Cliente - Cidade": "BRASILIA",
+    "rua": "TRECHO SIA TRECHO 2  445 LOTE 02,SN-GUARA,71200-020"
+  },
+  {
+    "Cliente - Nome": "IRMAOS TEIXEIRA LTDA",
+    "Cliente - CNPJ": "04976718000179",
+    "Cliente - Estado": "PA",
+    "Cliente - Cidade": "BELEM",
+    "rua": "AV SEN LEMOS,3153-,66120-002"
+  },
+  {
+    "Cliente - Nome": "J DOS REIS DE MORAES FRANCA EPP",
+    "Cliente - CNPJ": "05099199000170",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "FRANCA",
+    "rua": "AV PROF MOACIR VIEIRA COELHO,3837-,14405-700"
+  },
+  {
+    "Cliente - Nome": "JAGUAR COM DE TINTAS LTDA",
+    "Cliente - CNPJ": "07221472000113",
+    "Cliente - Estado": "CE",
+    "Cliente - Cidade": "FORTALEZA",
+    "rua": "AV CEL CARVALHO,2731-,60341-641"
+  },
+  {
+    "Cliente - Nome": "JAVA COMERCIO DE TINTAS LTDA ME",
+    "Cliente - CNPJ": "08727801000165",
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "CRICIUMA",
+    "rua": "R  JOSE FERREIRA LAZ,75-,88802-145"
+  },
+  {
+    "Cliente - Nome": "JGA COMERCIO DE TINTAS E FERRAGENS LTDA",
+    "Cliente - CNPJ": 19896121000191,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "CAXIAS DO SUL",
+    "rua": "AV RUBEM BENTO ALVES,1362-,95041-028"
+  },
+  {
+    "Cliente - Nome": "JGS COMERC LTDA EPP",
+    "Cliente - CNPJ": 24621237000158,
+    "Cliente - Estado": "MS",
+    "Cliente - Cidade": "CAMPO GRANDE",
+    "rua": "AV  DAS BANDEIRAS,1277-,79080-001"
+  },
+  {
+    "Cliente - Nome": "JMR COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": 18867554000156,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "MARILIA",
+    "rua": "R  BAHIA,620-,17509-150"
+  },
+  {
+    "Cliente - Nome": "JSV COMERCIO DE TINTAS LTDA ME",
+    "Cliente - CNPJ": "01816239000105",
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "SAO JOSE",
+    "rua": "AV  LEOBERTO LEAL,1-SL 1,88117-001"
+  },
+  {
+    "Cliente - Nome": "KMV COMERCIO DE TINTAS LTDA EPP",
+    "Cliente - CNPJ": 79132833000166,
+    "Cliente - Estado": "PR",
+    "Cliente - Cidade": "MARINGA",
+    "rua": "AV  BRASIL,5015-,87014-070"
+  },
+  {
+    "Cliente - Nome": "KRARO TINTAS BARRETOS LTDA - ME",
+    "Cliente - CNPJ": "07108795000103",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "BARRETOS",
+    "rua": "AV 43,799-,14781-321"
+  },
+  {
+    "Cliente - Nome": "L DA SILVEIRA BALBI ME",
+    "Cliente - CNPJ": "04921849000159",
+    "Cliente - Estado": "AP",
+    "Cliente - Cidade": "MACAPA",
+    "rua": "R  GUANABARA,427-LETRA B,68908-360"
+  },
+  {
+    "Cliente - Nome": "L P PINTO - EPP",
+    "Cliente - CNPJ": 10897316000181,
+    "Cliente - Estado": "AP",
+    "Cliente - Cidade": "MACAPA",
+    "rua": "R  GUANABARA,553-BRANCO,68908-360"
+  },
+  {
+    "Cliente - Nome": "L.C. TINTAS LTDA - ME",
+    "Cliente - CNPJ": 10893905000191,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "NOVO HAMBURGO",
+    "rua": "R GUIA LOPES,1820-,93410-340"
+  },
+  {
+    "Cliente - Nome": "LAR DAS TINTAS LTDA",
+    "Cliente - CNPJ": 42495135000115,
+    "Cliente - Estado": "RJ",
+    "Cliente - Cidade": "RIO DE JANEIRO",
+    "rua": "R  URANOS,1098-,21060-070"
+  },
+  {
+    "Cliente - Nome": "LEAO COMERCIO DE TINTAS IJUILTDA",
+    "Cliente - CNPJ": 93656353000125,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "IJUI",
+    "rua": "R  JOSE BONIFACIO,1-,98700-000"
+  },
+  {
+    "Cliente - Nome": "LIMUSINE TINTAS E MAT DE CONSTRUCAO LTDA ME",
+    "Cliente - CNPJ": 31353774000120,
+    "Cliente - Estado": "RJ",
+    "Cliente - Cidade": "RIO DE JANEIRO",
+    "rua": "EST  DA CACUIA,495-A,21921-000"
+  },
+  {
+    "Cliente - Nome": "LINDACOR COM DE TINTAS LTDA ME",
+    "Cliente - CNPJ": 11051392000134,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "RIBEIRAO PRETO",
+    "rua": "AV  CARAMURU,2055-,14025-080"
+  },
+  {
+    "Cliente - Nome": "LJ GUERRA E CIA LTDA",
+    "Cliente - CNPJ": "04501136000136",
+    "Cliente - Estado": "AM",
+    "Cliente - Cidade": "MANAUS",
+    "rua": "AV  RODRIGO OTAVIO,4050-,69077-000"
+  },
+  {
+    "Cliente - Nome": "LM SGUARIO E SILVA",
+    "Cliente - CNPJ": "05950456000306",
+    "Cliente - Estado": "RR",
+    "Cliente - Cidade": "BOA VISTA",
+    "rua": "R  ANTONIO FIRMINO DA SILVA,258-,69315-228"
+  },
+  {
+    "Cliente - Nome": "LOJA DE TINTAS PORTELLA LTDA ME",
+    "Cliente - CNPJ": 78909264000150,
+    "Cliente - Estado": "PR",
+    "Cliente - Cidade": "CURITIBA",
+    "rua": "AV ANITA GARIBALDI,3994-,82220-005"
+  },
+  {
+    "Cliente - Nome": "LOJAS QUERO QUERO SA",
+    "Cliente - CNPJ": 96418264024151,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "CANOAS",
+    "rua": "R ARAGUAIA,140-,92410-000"
+  },
+  {
+    "Cliente - Nome": "LUCONST CONSTRUCOES LTDA",
+    "Cliente - CNPJ": 14684051000194,
+    "Cliente - Estado": "RJ",
+    "Cliente - Cidade": "RIO DAS OSTRAS",
+    "rua": "AV JANE MARIA MARTINS FIGUEIRA,953-LOJA 05 QD 76 LOTE 04,28890-001"
+  },
+  {
+    "Cliente - Nome": "LUIDAR TINTAS LTDA EPP",
+    "Cliente - CNPJ": 22397806001250,
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "UBERABA",
+    "rua": "AV BARAO DO RIO BRANCO,1064-,38020-300"
+  },
+  {
+    "Cliente - Nome": "LUMAR RIO DAS OSTRAS MATERIAL DE CONSTRUCAO LTDA",
+    "Cliente - CNPJ": "05728775000100",
+    "Cliente - Estado": "RJ",
+    "Cliente - Cidade": "RIO DAS OSTRAS",
+    "rua": "AV JANE MARIA MARTINS FIGUEIRA,953-,28890-000"
+  },
+  {
+    "Cliente - Nome": "M & M ALMEIDA ROSA COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": 37575489000130,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SOROCABA",
+    "rua": "RUA LEONDINA GONCALVES MOBAIER,405-,18055-883"
+  },
+  {
+    "Cliente - Nome": "M & M ALMEIDA ROSA COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": 37575489000130,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SOROCABA",
+    "rua": "RUA LEONDINA GONCALVES MOBAIER,405-,18055-883"
+  },
+  {
+    "Cliente - Nome": "M F S SANTOS EIRELI",
+    "Cliente - CNPJ": 26747007000165,
+    "Cliente - Estado": "AC",
+    "Cliente - Cidade": "RIO BRANCO",
+    "rua": "R EPITACIO PESSOA,13-,69918-300"
+  },
+  {
+    "Cliente - Nome": "M H & SCHMITT LTDA",
+    "Cliente - CNPJ": 12609981000158,
+    "Cliente - Estado": "PI",
+    "Cliente - Cidade": "BOM JESUS",
+    "rua": "AV ADEMAR DIOGENES,845 D-B,64900-000"
+  },
+  {
+    "Cliente - Nome": "MAGIA DAS CORES COM DE TINTAS LTDA ME",
+    "Cliente - CNPJ": 11893495000141,
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "FLORIANOPOLIS",
+    "rua": "ROD JORN MAURICIO SIROTSKY SOBRINHO,5815-LJ 1 2,88053-701"
+  },
+  {
+    "Cliente - Nome": "MAGIA DAS CORES TINTAS LTDA",
+    "Cliente - CNPJ": "05315179000190",
+    "Cliente - Estado": "RJ",
+    "Cliente - Cidade": "RIO DE JANEIRO",
+    "rua": "EST DO TINDIBA,1666-LOJA E SOBRELOJA,22740-361"
+  },
+  {
+    "Cliente - Nome": "MAIS COR TINTAS LTDA",
+    "Cliente - CNPJ": 28322202000179,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "NOVO HAMBURGO",
+    "rua": "AV NICOLAU BECKER,660-,93510-060"
+  },
+  {
+    "Cliente - Nome": "MARACANA COM DE TINTAS E FERRAGENS LTDA ME",
+    "Cliente - CNPJ": 73011447000130,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV  ITABERABA,3644-,02739-000"
+  },
+  {
+    "Cliente - Nome": "MARACANA COM DE TINTAS E FERRAGENS LTDA ME",
+    "Cliente - CNPJ": 73011447000130,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV  ITABERABA,3644-,02739-000"
+  },
+  {
+    "Cliente - Nome": "MARCELO MACHADO TINTAS EIRELI EPP",
+    "Cliente - CNPJ": "03877185000105",
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "UBERLANDIA",
+    "rua": "AV  SEME SIMAO,1257-,38410-094"
+  },
+  {
+    "Cliente - Nome": "MARIA CELIA F CAMPOS ME",
+    "Cliente - CNPJ": 10327932000105,
+    "Cliente - Estado": "RR",
+    "Cliente - Cidade": "BOA VISTA",
+    "rua": "AV CENTENARIO,1746-,69312-377"
+  },
+  {
+    "Cliente - Nome": "MARIANO MAT DE CONSTRUCAO LTDA",
+    "Cliente - CNPJ": 63769731000116,
+    "Cliente - Estado": "RO",
+    "Cliente - Cidade": "PORTO VELHO",
+    "rua": "R ALEXANDRE GUIMARAES,1170-A,76804-296"
+  },
+  {
+    "Cliente - Nome": "MARINARO TINTAS LTDA - ME",
+    "Cliente - CNPJ": 48575815000125,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "R SALVADOR SIMOES,533-,04276-000"
+  },
+  {
+    "Cliente - Nome": "MARINARO TINTAS LTDA - ME",
+    "Cliente - CNPJ": 48575815000125,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "R SALVADOR SIMOES,533-,04276-000"
+  },
+  {
+    "Cliente - Nome": "MARTINS & HILLAL COM DE TINTAS LTDA",
+    "Cliente - CNPJ": "03888693000199",
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "PELOTAS",
+    "rua": "R BARAO DE SANTA TECLA,454-,96010-140"
+  },
+  {
+    "Cliente - Nome": "MASTER COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": 96790217000111,
+    "Cliente - Estado": "BA",
+    "Cliente - Cidade": "SALVADOR",
+    "rua": "R  ARTUR ORRICO,118-GALPAO,41275-490"
+  },
+  {
+    "Cliente - Nome": "MAXIMA COR COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": 14711218000169,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "CARAPICUIBA",
+    "rua": "AV INOCENCIO SERAFICO,3300-,06343-410"
+  },
+  {
+    "Cliente - Nome": "MB COMERCIO DE MATERIAIS DE CONSTRUCAO LTDA",
+    "Cliente - CNPJ": "09267050000104",
+    "Cliente - Estado": "CE",
+    "Cliente - Cidade": "FORTALEZA",
+    "rua": "AV ANTONIO SALES,3410-ST ENGENHARIA A 1,60135-102"
+  },
+  {
+    "Cliente - Nome": "MB COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": 13543208000794,
+    "Cliente - Estado": "RJ",
+    "Cliente - Cidade": "RIO DE JANEIRO",
+    "rua": "R  DO MATOSO,54-,20270-133"
+  },
+  {
+    "Cliente - Nome": "MBL LIMA EIRELI",
+    "Cliente - CNPJ": 33794514000115,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "FRANCA",
+    "rua": "RUA PADRE ANCHIETA,2414-,14400-740"
+  },
+  {
+    "Cliente - Nome": "MD TINTAS LTDA",
+    "Cliente - CNPJ": "00357940000132",
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "GOVERNADOR VALADARES",
+    "rua": "AV JK,825-A,35030-210"
+  },
+  {
+    "Cliente - Nome": "MENDES & ACORDI COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": 25341184000184,
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "CRICIUMA",
+    "rua": "AV CENTENARIO,1250-SL 07,88804-001"
+  },
+  {
+    "Cliente - Nome": "METALSUPER DISTRIB DE TINTAS LTDA",
+    "Cliente - CNPJ": 95400198000107,
+    "Cliente - Estado": "PR",
+    "Cliente - Cidade": "MARINGA",
+    "rua": "AV  LAGUNA,1268-ESQ RUA SAO VICENTE,87050-260"
+  },
+  {
+    "Cliente - Nome": "METALTINTAS COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": 64630023000162,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "RIBEIRAO PRETO",
+    "rua": "AV DR FRANCISCO JUNQUEIRA,1950-,14020-000"
+  },
+  {
+    "Cliente - Nome": "MIGUEL & TORSO COM DE TINTAS LTDA",
+    "Cliente - CNPJ": "07517759000861",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "JUNDIAI",
+    "rua": "AV ANTONIO FREDERICO OZANAN,4570-,13215-485"
+  },
+  {
+    "Cliente - Nome": "MMB COMERCIO DE TINTAS LTDA ME",
+    "Cliente - CNPJ": 68981448000177,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "R  GUAIAUNA,160-,03631-000"
+  },
+  {
+    "Cliente - Nome": "MMB COMERCIO DE TINTAS LTDA ME",
+    "Cliente - CNPJ": 68981448000177,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "R  GUAIAUNA,160-,03631-000"
+  },
+  {
+    "Cliente - Nome": "MONTE E CIA LTDA",
+    "Cliente - CNPJ": "04661385000431",
+    "Cliente - Estado": "AP",
+    "Cliente - Cidade": "SANTANA",
+    "rua": "ROD DUCA SERRA,SN-KM 17,68929-500"
+  },
+  {
+    "Cliente - Nome": "MORATINTAS LTDA",
+    "Cliente - CNPJ": "01744910000222",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV JOAO PAULO I,1070-,02738-000"
+  },
+  {
+    "Cliente - Nome": "MORATINTAS LTDA",
+    "Cliente - CNPJ": "01744910000222",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV JOAO PAULO I,1070-,02738-000"
+  },
+  {
+    "Cliente - Nome": "MSIM DISTRIBUIDORA DE MATERIAIS DE CONSTRUCAO LTDA",
+    "Cliente - CNPJ": "08989831000140",
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "ITAPEMA",
+    "rua": "R 406,863-,88220-000"
+  },
+  {
+    "Cliente - Nome": "MULTITINTAS LEOPOLDINA COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": 37837253000124,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV IMP LEOPOLDINA,788-LOJA TERREO,05305-001"
+  },
+  {
+    "Cliente - Nome": "MULTITINTAS LEOPOLDINA COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": 37837253000124,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV IMP LEOPOLDINA,788-LOJA TERREO,05305-001"
+  },
+  {
+    "Cliente - Nome": "MWL COMERCIO DE TINTAS BARRETOS LTDA",
+    "Cliente - CNPJ": 37490360000129,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "BARRETOS",
+    "rua": "AV 43,799-BOX 2,14780-733"
+  },
+  {
+    "Cliente - Nome": "N C OLIVEIRA TINTAS LTDA",
+    "Cliente - CNPJ": 10714194000140,
+    "Cliente - Estado": "RN",
+    "Cliente - Cidade": "NATAL",
+    "rua": "R CEL NORTON CHAVES,729-,59075-200"
+  },
+  {
+    "Cliente - Nome": "N N TINTAS LTDA",
+    "Cliente - CNPJ": "08201624000189",
+    "Cliente - Estado": "RN",
+    "Cliente - Cidade": "NATAL",
+    "rua": "R CEL NORTON CHAVES,726-,59075-200"
+  },
+  {
+    "Cliente - Nome": "NEYMARX COM DE MAT LTDA",
+    "Cliente - CNPJ": "00776236000114",
+    "Cliente - Estado": "AM",
+    "Cliente - Cidade": "MANAUS",
+    "rua": "R VISCONDE DE JEQUITINHONHA,SN-QD 26 LT 06 LETRA B,69058-740"
+  },
+  {
+    "Cliente - Nome": "NIPPON TINTAS LTDA",
+    "Cliente - CNPJ": "00023223000174",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "CAMPINAS",
+    "rua": "AV  JOAO JORGE,126-134,13035-680"
+  },
+  {
+    "Cliente - Nome": "NORTH EMPREENDIMENTOS LTDA",
+    "Cliente - CNPJ": 26462797000132,
+    "Cliente - Estado": "RR",
+    "Cliente - Cidade": "BOA VISTA",
+    "rua": "AV GENERAL ATAIDE TEIVE,2687-,69309-000"
+  },
+  {
+    "Cliente - Nome": "NR TINTAS LTDA EPP",
+    "Cliente - CNPJ": 11441370000423,
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "UBERLANDIA",
+    "rua": "AV BELO HORIZONTE,696-,38400-454"
+  },
+  {
+    "Cliente - Nome": "NUNES & DE MARI LTDA",
+    "Cliente - CNPJ": 78921798000100,
+    "Cliente - Estado": "PR",
+    "Cliente - Cidade": "LONDRINA",
+    "rua": "AV BRASILIA,2815-,86025-180"
+  },
+  {
+    "Cliente - Nome": "O TINTEIRO COMERCIO DE TINTAS EIRELI",
+    "Cliente - CNPJ": 34056520000138,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO JOSE DO RIO PRETO",
+    "rua": "AV DANILO GALEAZZI,2861-,15051-155"
+  },
+  {
+    "Cliente - Nome": "ORGANIZACAO ANDRADE & TOMAZINI LTDA EPP",
+    "Cliente - CNPJ": 71180426000112,
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "UBERABA",
+    "rua": "R PE ZEFERINO,347-,38015-160"
+  },
+  {
+    "Cliente - Nome": "OURIMADEIRAS CASA CONSTRUCAO EIRELI EPP",
+    "Cliente - CNPJ": "05206161000150",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "OURINHOS",
+    "rua": "R  DO EXPEDICIONARIO,1187-,19900-041"
+  },
+  {
+    "Cliente - Nome": "OUTLET DAS TINTAS COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": 24968736000205,
+    "Cliente - Estado": "BA",
+    "Cliente - Cidade": "LAURO DE FREITAS",
+    "rua": "AV SANTOS DUMONT,1926-LJ10,42700-000"
+  },
+  {
+    "Cliente - Nome": "OUTLET DAS TINTAS EIRELI",
+    "Cliente - CNPJ": 34381286000114,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV SANTO AMARO,3498-,04556-300"
+  },
+  {
+    "Cliente - Nome": "OUTLET DAS TINTAS EIRELI",
+    "Cliente - CNPJ": 34381286000114,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV SANTO AMARO,3498-,04556-300"
+  },
+  {
+    "Cliente - Nome": "PALACIO DAS TINTAS FRANCA EIRELI - EPP",
+    "Cliente - CNPJ": 26068894000145,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "FRANCA",
+    "rua": "R MONSENHOR ROSA,1330-,14400-670"
+  },
+  {
+    "Cliente - Nome": "PALMEIRA TINTAS LTDA",
+    "Cliente - CNPJ": 42335141000296,
+    "Cliente - Estado": "RJ",
+    "Cliente - Cidade": "RIO DE JANEIRO",
+    "rua": "R CD DE BONFIM,837-,20530-000"
+  },
+  {
+    "Cliente - Nome": "PAOLUCCI COM DE TINTAS LTDA",
+    "Cliente - CNPJ": 43336882001064,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "R  CLELIA,1797-,05042-001"
+  },
+  {
+    "Cliente - Nome": "PAOLUCCI COM DE TINTAS LTDA",
+    "Cliente - CNPJ": 43336882001064,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "R  CLELIA,1797-,05042-001"
+  },
+  {
+    "Cliente - Nome": "PENKY COMERCIAL EIRELI",
+    "Cliente - CNPJ": "00465530000105",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "OSASCO",
+    "rua": "R AGUDOS,347-,06223-140"
+  },
+  {
+    "Cliente - Nome": "PERIN 4V MATERIAIS DE CONSTRUCAO LTDA",
+    "Cliente - CNPJ": 29628340000143,
+    "Cliente - Estado": "RR",
+    "Cliente - Cidade": "BOA VISTA",
+    "rua": "AV CAPITAO JULIO BEZERRA,1637-,69305-294"
+  },
+  {
+    "Cliente - Nome": "PICCOLO CONSTR E MAT LTDA",
+    "Cliente - CNPJ": 88429881000535,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "NOVO HAMBURGO",
+    "rua": "AV CEL FREDERICO LINCK,579-,93336-002"
+  },
+  {
+    "Cliente - Nome": "PINTE E DECORE COMERCIO DE TINTAS EIRELI EPP",
+    "Cliente - CNPJ": 24075668000247,
+    "Cliente - Estado": "MT",
+    "Cliente - Cidade": "CUIABA",
+    "rua": "AV PERNAMBUCO (NUC HAB CPA II),769-QD A LT02 CPA II,78055-428"
+  },
+  {
+    "Cliente - Nome": "PIRATININGA FRANCA EIRELI - EPP",
+    "Cliente - CNPJ": 26094554000199,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "FRANCA",
+    "rua": "R VEREADOR JOSE GRANZOTTE,2547-2559,14403-597"
+  },
+  {
+    "Cliente - Nome": "PISCINAO DE BONSUCESSO COM DE TINTAS LTDA EPP",
+    "Cliente - CNPJ": "05013769000249",
+    "Cliente - Estado": "RJ",
+    "Cliente - Cidade": "RIO DE JANEIRO",
+    "rua": "R  ADOLFO BERGAMINI,42-,20730-000"
+  },
+  {
+    "Cliente - Nome": "PLANALTO TINTAS LTDA",
+    "Cliente - CNPJ": 26390229000688,
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "BELO HORIZONTE",
+    "rua": "AV PORTUGAL,5523-,31710-400"
+  },
+  {
+    "Cliente - Nome": "PLANALTO TINTAS LTDA",
+    "Cliente - CNPJ": 26390229000840,
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "DIVINOPOLIS",
+    "rua": "R ESPIRITO SANTO,332-,35500-030"
+  },
+  {
+    "Cliente - Nome": "PLANALTO TINTAS LTDA",
+    "Cliente - CNPJ": 26390229001064,
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "MONTES CLAROS",
+    "rua": "AV GERALDO ATHAYDE,1205-,39400-292"
+  },
+  {
+    "Cliente - Nome": "POLAR TINTAS COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": "01671634000139",
+    "Cliente - Estado": "DF",
+    "Cliente - Cidade": "BRASILIA",
+    "rua": "QD 7,SN-LT 1310 1315 SN SETOR LESTE IN,72445-070"
+  },
+  {
+    "Cliente - Nome": "POLITINTAS LTDA",
+    "Cliente - CNPJ": 27171883001040,
+    "Cliente - Estado": "ES",
+    "Cliente - Cidade": "SERRA",
+    "rua": "AV  ELDES SCHERRER SOUZA,805-LJ 4,29165-680"
+  },
+  {
+    "Cliente - Nome": "POLITINTAS LTDA",
+    "Cliente - CNPJ": 27171883000230,
+    "Cliente - Estado": "ES",
+    "Cliente - Cidade": "VILA VELHA",
+    "rua": "ROD CARLOS LINDEMBERG 2340 LOJAS 12 E 13,SN-,29123-600"
+  },
+  {
+    "Cliente - Nome": "POLITINTAS LTDA",
+    "Cliente - CNPJ": 27171883000400,
+    "Cliente - Estado": "ES",
+    "Cliente - Cidade": "VITORIA",
+    "rua": "AV  LEITAO DA SILVA,931-LJ 1 2 PAV,29046-010"
+  },
+  {
+    "Cliente - Nome": "POLO DAS TINTAS LTDA EPP",
+    "Cliente - CNPJ": "03329163000100",
+    "Cliente - Estado": "DF",
+    "Cliente - Cidade": "BRASILIA",
+    "rua": "Q QI 1 LOTES 59 61 E,63-LJ 01,72135-010"
+  },
+  {
+    "Cliente - Nome": "PONTACO COMERCIO DE FERRO ECIMENTO LTDA",
+    "Cliente - CNPJ": 10303870000193,
+    "Cliente - Estado": "RJ",
+    "Cliente - Cidade": "RIO DAS OSTRAS",
+    "rua": "AV JANE MARIA MARTINS FIGUEIRA,1633-,28896-052"
+  },
+  {
+    "Cliente - Nome": "PONTOCOR COM DE TINTAS LTDA",
+    "Cliente - CNPJ": 12541519000166,
+    "Cliente - Estado": "PR",
+    "Cliente - Cidade": "MARINGA",
+    "rua": "AV  BRASIL,3051-,87013-000"
+  },
+  {
+    "Cliente - Nome": "PRIMOSUL MAT DE CONSTRUCAO LTDA",
+    "Cliente - CNPJ": 88741301000117,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "PORTO ALEGRE",
+    "rua": "EST JUCA BATISTA,1250-,91770-000"
+  },
+  {
+    "Cliente - Nome": "PV DISTRIB LTDA ME",
+    "Cliente - CNPJ": "07432377000169",
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "FLORIANOPOLIS",
+    "rua": "ROD  SC QUATROCENTOS E CINCO,SN-KM 1 697,88048-000"
+  },
+  {
+    "Cliente - Nome": "RB TINTAS EIRELI",
+    "Cliente - CNPJ": 30338238000354,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "OSASCO",
+    "rua": "AV JOAO VENTURA DOS SANTOS,842-,06260-170"
+  },
+  {
+    "Cliente - Nome": "REAL COMERCIO LTDA",
+    "Cliente - CNPJ": 19972249001592,
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "BELO HORIZONTE",
+    "rua": "R  MOEMA,285-,30730-580"
+  },
+  {
+    "Cliente - Nome": "REAL COMERCIO LTDA",
+    "Cliente - CNPJ": 19972249002130,
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "CONTAGEM",
+    "rua": "AV  JOAO CESAR DE OLIVEIRA,2501-,32315-000"
+  },
+  {
+    "Cliente - Nome": "REAL COMERCIO LTDA",
+    "Cliente - CNPJ": 19972249002483,
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "DIVINOPOLIS",
+    "rua": "R  PIAUI,471-,35502-031"
+  },
+  {
+    "Cliente - Nome": "RECANTO COM DE TINTAS LTDA ME",
+    "Cliente - CNPJ": 68987742000196,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "R  MACIEL MONTEIRO,151-,03566-000"
+  },
+  {
+    "Cliente - Nome": "RECANTO COM DE TINTAS LTDA ME",
+    "Cliente - CNPJ": 68987742000196,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "R  MACIEL MONTEIRO,151-,03566-000"
+  },
+  {
+    "Cliente - Nome": "RESEMINI COMERCIO DE MAT DE CONSTRUCAO LTDA",
+    "Cliente - CNPJ": "03022115000175",
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "GARIBALDI",
+    "rua": "R JOAO PESSOA,329-,95720-000"
+  },
+  {
+    "Cliente - Nome": "RIACHO TINTAS LTDA EPP",
+    "Cliente - CNPJ": "03073454000180",
+    "Cliente - Estado": "DF",
+    "Cliente - Cidade": "BRASILIA",
+    "rua": "SET DE HABITACOES CGNC SN Q716 BLD LJ63,SN-,70770-534"
+  },
+  {
+    "Cliente - Nome": "RIBEIRO E UCHOA LTDA",
+    "Cliente - CNPJ": 30249467000130,
+    "Cliente - Estado": "AC",
+    "Cliente - Cidade": "RIO BRANCO",
+    "rua": "R MINAS GERAIS,1041-,69900-180"
+  },
+  {
+    "Cliente - Nome": "RICASA MAT PARA CONSTRUCAO LTDA EPP",
+    "Cliente - CNPJ": "07128187000152",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "GUARULHOS",
+    "rua": "AV  BOM CLIMA,38-,07196-220"
+  },
+  {
+    "Cliente - Nome": "RIO DO PINCEL TINTAS LTDA",
+    "Cliente - CNPJ": "01338470000394",
+    "Cliente - Estado": "RJ",
+    "Cliente - Cidade": "RIO DE JANEIRO",
+    "rua": "EST DE JACAREPAGUA,7666-,22753-032"
+  },
+  {
+    "Cliente - Nome": "RN TINTAS LTDA",
+    "Cliente - CNPJ": "01407362000164",
+    "Cliente - Estado": "RN",
+    "Cliente - Cidade": "NATAL",
+    "rua": "R DOS PAIANAZES,1648-ANEXO 1640,59037-350"
+  },
+  {
+    "Cliente - Nome": "ROCHA'S COMERCIO VAREJISTA DE TINTAS, CASA & CONSTRUCAO LTDA",
+    "Cliente - CNPJ": 41643563000185,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "JUNDIAI",
+    "rua": "R BOM JESUS DE PIRAPORA,1381-,13207-605"
+  },
+  {
+    "Cliente - Nome": "RODRIGO OCANHA COMERCIO DE TINTAS EPP",
+    "Cliente - CNPJ": 28938365000180,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "MARILIA",
+    "rua": "AV MANOEL MULLER,158-,17507-200"
+  },
+  {
+    "Cliente - Nome": "SACI COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": 71961049000744,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "CAMPINAS",
+    "rua": "AV NS DE FATIMA,1307-,13076-000"
+  },
+  {
+    "Cliente - Nome": "SACI COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": 71961049000159,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "JUNDIAI",
+    "rua": "AV CDOR ANTONIO BORIN,2630-LJ,13219-807"
+  },
+  {
+    "Cliente - Nome": "SAINT GOBAIN DISTRIBUICAO BRASIL LTDA",
+    "Cliente - CNPJ": "03840986005831",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV PRES CASTELO BRANCO,8067-,05034-000"
+  },
+  {
+    "Cliente - Nome": "SALDANHA GONZALES COM DE TINTAS E FERRAGENS LTDA ME",
+    "Cliente - CNPJ": 66119918000162,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "R  PARAPUA,231-,02831-000"
+  },
+  {
+    "Cliente - Nome": "SALDANHA GONZALES COM DE TINTAS E FERRAGENS LTDA ME",
+    "Cliente - CNPJ": 66119918000162,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "R  PARAPUA,231-,02831-000"
+  },
+  {
+    "Cliente - Nome": "SERTAO COMERC DE EQUIP LTDA",
+    "Cliente - CNPJ": 15459431001755,
+    "Cliente - Estado": "MS",
+    "Cliente - Cidade": "CAMPO GRANDE",
+    "rua": "AV SOLON PADILHA,2288-,79108-610"
+  },
+  {
+    "Cliente - Nome": "SKARLAT FERRAGENS LTDA EPP",
+    "Cliente - CNPJ": "00649883000165",
+    "Cliente - Estado": "RJ",
+    "Cliente - Cidade": "RIO DE JANEIRO",
+    "rua": "R DR AUGUSTO FIGUEIREDO,1956-LJ B,21840-600"
+  },
+  {
+    "Cliente - Nome": "SO TINTAS COMERCIAL LTDA",
+    "Cliente - CNPJ": "02185406000111",
+    "Cliente - Estado": "RN",
+    "Cliente - Cidade": "MOSSORO",
+    "rua": "R FELIPE CAMARAO,121-,59600-340"
+  },
+  {
+    "Cliente - Nome": "SUPER TINTAS COM DE TINTAS LTDA ME",
+    "Cliente - CNPJ": 11614349000130,
+    "Cliente - Estado": "RJ",
+    "Cliente - Cidade": "RIO DE JANEIRO",
+    "rua": "AV MAL FONTENELE,3961-LJ A,21740-001"
+  },
+  {
+    "Cliente - Nome": "TAHISA COM TINTAS LTDA ME",
+    "Cliente - CNPJ": "01791304000187",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "GUARULHOS",
+    "rua": "AV  JUREMA,577-,07244-000"
+  },
+  {
+    "Cliente - Nome": "TANAKO MATERIAIS PARA CONSTRUCAO LTDA",
+    "Cliente - CNPJ": "04116827000116",
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "ITAJAI",
+    "rua": "R PAULO KLEIS JUNIOR,146-,88309-380"
+  },
+  {
+    "Cliente - Nome": "TATO COM DE MAT DE CONSTRUCAO LTDA",
+    "Cliente - CNPJ": 81550535000219,
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "JOINVILLE",
+    "rua": "R JOSE ANTONIO SALES,42-,89224-300"
+  },
+  {
+    "Cliente - Nome": "THERA COMERCIAL DE TINTAS E FERRAGENS LTDA",
+    "Cliente - CNPJ": 36927213000100,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "CAMPINAS",
+    "rua": "AV DOUTOR ARLINDO JOAQUIM DE LEMOS,1398-,13100-451"
+  },
+  {
+    "Cliente - Nome": "TIMAPE COMERCIAL LTDA ME",
+    "Cliente - CNPJ": "01817073000133",
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "CRICIUMA",
+    "rua": "AV SANTOS DUMONT,2295-,88804-500"
+  },
+  {
+    "Cliente - Nome": "TINBOL TINTAS LTDA",
+    "Cliente - CNPJ": 27067909000466,
+    "Cliente - Estado": "ES",
+    "Cliente - Cidade": "SERRA",
+    "rua": "AVE BNH,57-LJ 04 E 09,29165-610"
+  },
+  {
+    "Cliente - Nome": "TINBOL TINTAS LTDA",
+    "Cliente - CNPJ": 27067909000628,
+    "Cliente - Estado": "ES",
+    "Cliente - Cidade": "VILA VELHA",
+    "rua": "R LUCIANO DAS NEVES,1111-,29100-201"
+  },
+  {
+    "Cliente - Nome": "TINTA E COR COMERCIAL DE TINTAS LTDA",
+    "Cliente - CNPJ": 94222981000165,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "NOVO HAMBURGO",
+    "rua": "AV  NICOLAU BECKER,660-,93510-060"
+  },
+  {
+    "Cliente - Nome": "TINTACOR COM DE TINTAS E ACESSORIOS LTDA EPP",
+    "Cliente - CNPJ": 82426222000135,
+    "Cliente - Estado": "PR",
+    "Cliente - Cidade": "FOZ DO IGUACU",
+    "rua": "R  JORGE SANWAIS,557-,85851-150"
+  },
+  {
+    "Cliente - Nome": "TINTAO COM DE TINTAS E PECAS PARA AUTOS LTDA EPP",
+    "Cliente - CNPJ": 26933861000116,
+    "Cliente - Estado": "TO",
+    "Cliente - Cidade": "ARAGUAINA",
+    "rua": "AV  SANTOS DUMONT,83-,77818-010"
+  },
+  {
+    "Cliente - Nome": "TINTAO COM DE TINTAS E PECAS PARA AUTOS LTDA EPP",
+    "Cliente - CNPJ": 26933861000116,
+    "Cliente - Estado": "TO",
+    "Cliente - Cidade": "ARAGUAINA",
+    "rua": "AV  SANTOS DUMONT,83-,77818-010"
+  },
+  {
+    "Cliente - Nome": "TINTAO COM DE TINTAS LTDA",
+    "Cliente - CNPJ": 75816215000184,
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "JOINVILLE",
+    "rua": "R VSC DE TAUNAY,86-,89201-420"
+  },
+  {
+    "Cliente - Nome": "TINTAS AMADOR LTDA ME",
+    "Cliente - CNPJ": 60626256000130,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV  AMADOR BUENO DA VEIGA,1356-,03636-100"
+  },
+  {
+    "Cliente - Nome": "TINTAS AMADOR LTDA ME",
+    "Cliente - CNPJ": 60626256000130,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV  AMADOR BUENO DA VEIGA,1356-,03636-100"
+  },
+  {
+    "Cliente - Nome": "TINTAS DARKA LTDA",
+    "Cliente - CNPJ": "01887122001429",
+    "Cliente - Estado": "PR",
+    "Cliente - Cidade": "CURITIBA",
+    "rua": "AV  SILVA JARDIM,107-,80230-000"
+  },
+  {
+    "Cliente - Nome": "TINTAS DARKA LTDA",
+    "Cliente - CNPJ": "01887122002581",
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "JOINVILLE",
+    "rua": "AV GETULIO VARGAS,871-,89202-295"
+  },
+  {
+    "Cliente - Nome": "TINTAS FAMOSAS COMERC DE TINTAS LTDA",
+    "Cliente - CNPJ": 66526542000453,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "OSASCO",
+    "rua": "AV  DOS AUTONOMISTAS,413-,06020-000"
+  },
+  {
+    "Cliente - Nome": "TINTAS FAMOSAS COMERC DE TINTAS LTDA",
+    "Cliente - CNPJ": 66526542000100,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV PROF FRANCISCO MORATO,3777-,05521-100"
+  },
+  {
+    "Cliente - Nome": "TINTAS FAMOSAS COMERC DE TINTAS LTDA",
+    "Cliente - CNPJ": 66526542000100,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV PROF FRANCISCO MORATO,3777-,05521-100"
+  },
+  {
+    "Cliente - Nome": "TINTAS JD LTDA",
+    "Cliente - CNPJ": 54190319000580,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "CARAPICUIBA",
+    "rua": "AV INOCENCIO SERAFICO,3504-SALAO CML 1,06380-021"
+  },
+  {
+    "Cliente - Nome": "TINTAS JD LTDA",
+    "Cliente - CNPJ": 54190319000318,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "OSASCO",
+    "rua": "AV SEBASTIAN PIETRO CAMANDONA,28-,06080-220"
+  },
+  {
+    "Cliente - Nome": "TINTAS JD LTDA",
+    "Cliente - CNPJ": 54190319000156,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV  MUTINGA,5196-,05110-000"
+  },
+  {
+    "Cliente - Nome": "TINTAS JD LTDA",
+    "Cliente - CNPJ": 54190319000156,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV  MUTINGA,5196-,05110-000"
+  },
+  {
+    "Cliente - Nome": "TINTAS L AUTOMOTIVAS IMOBILIARIAS E INDUSTRIAIS LTDA",
+    "Cliente - CNPJ": "05741890000106",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "OSASCO",
+    "rua": "AV DOS AUTONOMISTA,5222-,06194-060"
+  },
+  {
+    "Cliente - Nome": "TINTAS LUSACOR LTDA",
+    "Cliente - CNPJ": 57878068000357,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "RUA AMARO LUZ,218-,04764-010"
+  },
+  {
+    "Cliente - Nome": "TINTAS LUSACOR LTDA",
+    "Cliente - CNPJ": 57878068000357,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "RUA AMARO LUZ,218-,04764-010"
+  },
+  {
+    "Cliente - Nome": "TINTAS MC LTDA",
+    "Cliente - CNPJ": 61149506008306,
+    "Cliente - Estado": "GO",
+    "Cliente - Cidade": "GOIANIA",
+    "rua": "AV T 7,480-QD 30 LOTE 10,74210-260"
+  },
+  {
+    "Cliente - Nome": "TINTAS MC LTDA",
+    "Cliente - CNPJ": 61149506009450,
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "UBERLANDIA",
+    "rua": "AV VASCONCELOS COSTA,715-BAIRRO MARTINS,38400-450"
+  },
+  {
+    "Cliente - Nome": "TINTAS MC LTDA",
+    "Cliente - CNPJ": 61149506000402,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "GUARULHOS",
+    "rua": "AV DR TIMOTEO PENTEADO,560-,07094-000"
+  },
+  {
+    "Cliente - Nome": "TINTAS MC LTDA",
+    "Cliente - CNPJ": 61149506000151,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV PROF ABRAAO DE MORAIS,378-,04127-000"
+  },
+  {
+    "Cliente - Nome": "TINTAS MC LTDA",
+    "Cliente - CNPJ": 61149506000151,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV PROF ABRAAO DE MORAIS,378-,04127-000"
+  },
+  {
+    "Cliente - Nome": "TINTAS OLIVEIRA LTDA",
+    "Cliente - CNPJ": "02393323000541",
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "FLORIANOPOLIS",
+    "rua": "AV MARINHEIRO MAX SCHRAMM,2639-LOJA,88095-001"
+  },
+  {
+    "Cliente - Nome": "TINTAS OLIVEIRA LTDA",
+    "Cliente - CNPJ": "02393323000118",
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "SAO JOSE",
+    "rua": "R  LUIZ FAGUNDES,798-SL 2,88103-500"
+  },
+  {
+    "Cliente - Nome": "TINTAS PALMARES GUARULHOS LTDA",
+    "Cliente - CNPJ": "08308194000107",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "GUARULHOS",
+    "rua": "AV EMILIO RIBAS,1068-,07020-010"
+  },
+  {
+    "Cliente - Nome": "TINTAS PALMARES LTDA",
+    "Cliente - CNPJ": 47450192000100,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV BOTURUSSU,1721-,03802-010"
+  },
+  {
+    "Cliente - Nome": "TINTAS PALMARES LTDA",
+    "Cliente - CNPJ": 47450192000100,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV BOTURUSSU,1721-,03802-010"
+  },
+  {
+    "Cliente - Nome": "TINTAS SAO MIGUEL EIRELI EPP",
+    "Cliente - CNPJ": 62742739000126,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV  NORDESTINA,24-,08011-000"
+  },
+  {
+    "Cliente - Nome": "TINTAS SAO MIGUEL EIRELI EPP",
+    "Cliente - CNPJ": 62742739000126,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV  NORDESTINA,24-,08011-000"
+  },
+  {
+    "Cliente - Nome": "TINTAS VINTE DE ABRIL PARIS LTDA EPP",
+    "Cliente - CNPJ": 33120627000135,
+    "Cliente - Estado": "RJ",
+    "Cliente - Cidade": "RIO DE JANEIRO",
+    "rua": "R CD DE BAEPENDI,20-,22231-140"
+  },
+  {
+    "Cliente - Nome": "TINTEIRO COMERC DE TINTAS LTDA EPP",
+    "Cliente - CNPJ": 88260120000179,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "PORTO ALEGRE",
+    "rua": "AV  ASSIS BRASIL,6583-LJ,91140-001"
+  },
+  {
+    "Cliente - Nome": "TINTORART COM DE TINTAS LTDA EPP",
+    "Cliente - CNPJ": "06374535000109",
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "BALNEARIO CAMBORIU",
+    "rua": "R  NOVECENTOS E QUATRO,971-,88330-592"
+  },
+  {
+    "Cliente - Nome": "TODIMO MATERIAIS PARA CONSTRUCAO SA",
+    "Cliente - CNPJ": 15375991002701,
+    "Cliente - Estado": "MS",
+    "Cliente - Cidade": "CAMPO GRANDE",
+    "rua": "R JOAQUIM MURTINHO,4603-,79041-914"
+  },
+  {
+    "Cliente - Nome": "TODIMO MATERIAIS PARA CONSTRUCAO SA",
+    "Cliente - CNPJ": 15375991000326,
+    "Cliente - Estado": "MT",
+    "Cliente - Cidade": "CUIABA",
+    "rua": "AV CARMINDO DE CAMPOS,667-,78065-300"
+  },
+  {
+    "Cliente - Nome": "TODIMO MATERIAIS PARA CONSTRUCAO SA",
+    "Cliente - CNPJ": 15375991001055,
+    "Cliente - Estado": "PR",
+    "Cliente - Cidade": "LONDRINA",
+    "rua": "AV TIRADENTES,1181-,86070-545"
+  },
+  {
+    "Cliente - Nome": "TOP COR COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": 11732795000149,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "CAXIAS DO SUL",
+    "rua": "R OS DEZOITO DO FORTE,974-,95020-472"
+  },
+  {
+    "Cliente - Nome": "TTL COMERCIO DE TINTAS E SERVICOS LTDA ME",
+    "Cliente - CNPJ": "06268934000195",
+    "Cliente - Estado": "ES",
+    "Cliente - Cidade": "VILA VELHA",
+    "rua": "AV STA LEOPOLDINA,1925-,29102-040"
+  },
+  {
+    "Cliente - Nome": "UAI TINTAS LTDA",
+    "Cliente - CNPJ": 20972952000184,
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "MONTES CLAROS",
+    "rua": "R CORONEL CELESTINO,198-,39400-014"
+  },
+  {
+    "Cliente - Nome": "UNICOLOR TINTAS LTDA EPP",
+    "Cliente - CNPJ": "02287193000139",
+    "Cliente - Estado": "RJ",
+    "Cliente - Cidade": "RIO DE JANEIRO",
+    "rua": "EST  DO PRE,1129-LJ B C,23013-550"
+  },
+  {
+    "Cliente - Nome": "UNITINTAS COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": "02107803001813",
+    "Cliente - Estado": "DF",
+    "Cliente - Cidade": "BRASILIA",
+    "rua": "TR SIA TRECHO 2,SN-LOTE 835 845,71200-020"
+  },
+  {
+    "Cliente - Nome": "UNITINTAS COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": "02107803000175",
+    "Cliente - Estado": "GO",
+    "Cliente - Cidade": "GOIANIA",
+    "rua": "R  P 13,18-Q 73 LT 23,74543-260"
+  },
+  {
+    "Cliente - Nome": "VANIO FERNANDES",
+    "Cliente - CNPJ": "06230895000137",
+    "Cliente - Estado": "SC",
+    "Cliente - Cidade": "JOINVILLE",
+    "rua": "R INAMBU,562-,89220-001"
+  },
+  {
+    "Cliente - Nome": "VENCESLAU TINTAS LTDA",
+    "Cliente - CNPJ": 20615803000168,
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "GOVERNADOR VALADARES",
+    "rua": "R ISRAEL PINHEIRO,3609-,35010-131"
+  },
+  {
+    "Cliente - Nome": "VISUAL TINTAS LTDA EPP",
+    "Cliente - CNPJ": "05017585000176",
+    "Cliente - Estado": "RR",
+    "Cliente - Cidade": "BOA VISTA",
+    "rua": "AV  MARIO HOMEM DE MELO,5550-,69313-522"
+  },
+  {
+    "Cliente - Nome": "VIVA COR TINTAS LTDA",
+    "Cliente - CNPJ": 68584077000351,
+    "Cliente - Estado": "RJ",
+    "Cliente - Cidade": "RIO DE JANEIRO",
+    "rua": "EST  DOS BANDEIRANTES,5481-LT 20 Q 2 PAL 28733,22780-080"
+  },
+  {
+    "Cliente - Nome": "VIVAL COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": "05921801000103",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "JUNDIAI",
+    "rua": "R  MOREIRA CESAR,115-,13202-600"
+  },
+  {
+    "Cliente - Nome": "W S J FERREIRA",
+    "Cliente - CNPJ": 30805423000140,
+    "Cliente - Estado": "AC",
+    "Cliente - Cidade": "RIO BRANCO",
+    "rua": "AV NACOES UNIDAS,1538-,69918-970"
+  },
+  {
+    "Cliente - Nome": "WALTER R SILVA & CIA LTDA ME",
+    "Cliente - CNPJ": "04645347000142",
+    "Cliente - Estado": "AM",
+    "Cliente - Cidade": "MANAUS",
+    "rua": "AV  COSME FERREIRA,404-,69082-230"
+  },
+  {
+    "Cliente - Nome": "WJ CORES E TINTAS LTDA",
+    "Cliente - CNPJ": 34126840000117,
+    "Cliente - Estado": "AC",
+    "Cliente - Cidade": "RIO BRANCO",
+    "rua": "EST DA SOBRAL,691-,69911-108"
+  },
+  {
+    "Cliente - Nome": "WL COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": 11606011000136,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "ERECHIM",
+    "rua": "PC  JULIO DE CASTILHOS,150-,99700-000"
+  },
+  {
+    "Cliente - Nome": "WSA COMERCIO DE TINTAS LTDA",
+    "Cliente - CNPJ": "09687578000132",
+    "Cliente - Estado": "DF",
+    "Cliente - Cidade": "BRASILIA",
+    "rua": "Q SB QD 7 COMERCIO LOCAL 25 LJ 01,SN-,71625-009"
+  },
+  {
+    "Cliente - Nome": "YARALIAN & MURAYAMA LTDA",
+    "Cliente - CNPJ": "08024864000155",
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "PRESIDENTE PRUDENTE",
+    "rua": "AV BRASIL,2298-,19013-001"
+  },
+  {
+    "Cliente - Nome": "ZANARDO COM DE VIDROS E TINTAS LTDA ME",
+    "Cliente - CNPJ": "08215677000230",
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "ERECHIM",
+    "rua": "R  ITALIA,226-,99700-000"
+  },
+  {
+    "Cliente - Nome": "ZONA SUL COM DE MATERIAL PARA PINTURA LTDA ME",
+    "Cliente - CNPJ": "08853810000100",
+    "Cliente - Estado": "SE",
+    "Cliente - Cidade": "ARACAJU",
+    "rua": "AV  MELICIO MACHADO,540-A,49038-443"
+  },
+  {
+    "Cliente - Nome": "TAKARA TAKARA IRMAO LTDA",
+    "Cliente - CNPJ": 60836244000130,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "AV  ITABERABA,3844-,02739-000"
+  },
+  {
+    "Cliente - Nome": "ULETE MOTTA E CIA LTDA",
+    "Cliente - CNPJ": 24231276000149,
+    "Cliente - Estado": "MG",
+    "Cliente - Cidade": "JOAO MONLEVADE",
+    "rua": "AV  GETULIO VARGAS,5166-,35930-003"
+  },
+  {
+    "Cliente - Nome": "MUD MATERIAIS DE CONSTRUCAO LTDA",
+    "Cliente - CNPJ": 33082249000142,
+    "Cliente - Estado": "RJ",
+    "Cliente - Cidade": "RIO DE JANEIRO",
+    "rua": "R MQ DE SAO VICENTE,9-9 A ENT SUP PELO 13,22451-041"
+  },
+  {
+    "Cliente - Nome": "FMA GROFF MADEIREIRA LTDA",
+    "Cliente - CNPJ": 93394021000110,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "PORTO ALEGRE",
+    "rua": "AV  TRAMANDAI,657-,91760-050"
+  },
+  {
+    "Cliente - Nome": "LUZANA COM DE FERRO E METAIS LTDA  ME",
+    "Cliente - CNPJ": 40455123000131,
+    "Cliente - Estado": "RJ",
+    "Cliente - Cidade": "RIO DE JANEIRO",
+    "rua": "R  DOIS DE MAIO,198-,20961-160"
+  },
+  {
+    "Cliente - Nome": "DEP CACULA JACAREI MATS PARA CONST LTDA",
+    "Cliente - CNPJ": 50467885000101,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "JACAREI",
+    "rua": "R JOAO AMERICO SILVA,204-,12315-310"
+  },
+  {
+    "Cliente - Nome": "GILBERTO F. DOS PASSOS COMERCIO DE MATERIAIS DE CONSTRUCAO EIRELI",
+    "Cliente - CNPJ": 94380904000133,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "SANTA CRUZ DO SUL",
+    "rua": "AV GASPAR BARTOLOMAY,854-,96815-555"
+  },
+  {
+    "Cliente - Nome": "SLIMP DISTRIBUIDORA DE MATERIAIS DE CONSTRUCAO EIRELI",
+    "Cliente - CNPJ": 13128503000199,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "SANTA CRUZ DO SUL",
+    "rua": "AC LINHA JOAO ALVES,SN-,96825-390"
+  },
+  {
+    "Cliente - Nome": "SANTEC COM DE FERRAGENS E FERRAMENTAS LTDA",
+    "Cliente - CNPJ": 51322782000116,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "DESCALVADO",
+    "rua": "R SIQUEIRA CAMPOS,344-,13690-000"
+  },
+  {
+    "Cliente - Nome": "DEPOSITO DE MADEIRA SAO LUIZ LTDA",
+    "Cliente - CNPJ": 44604973000105,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "CAMPINAS",
+    "rua": "AV ARMANDO SALES OLIVEIRA,390-,13090-150"
+  },
+  {
+    "Cliente - Nome": "ARMAZEM CORAL LTDA",
+    "Cliente - CNPJ": 11623188001031,
+    "Cliente - Estado": "PE",
+    "Cliente - Cidade": "RECIFE",
+    "rua": "AV DOMINGOS FERREIRA,4811-4793,51021-000"
+  },
+  {
+    "Cliente - Nome": "CASA DAS TINTAS DE ANAPOLIS LTDA",
+    "Cliente - CNPJ": 33229030000204,
+    "Cliente - Estado": "GO",
+    "Cliente - Cidade": "ANAPOLIS",
+    "rua": "AV  BRASIL SUL,317-,75123-390"
+  },
+  {
+    "Cliente - Nome": "MANFRIN CASSEB E CIA LTDA",
+    "Cliente - CNPJ": 72739543001027,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "CATANDUVA",
+    "rua": "AV ENG JOSE NELSON MACHADO,1213-,15810-185"
+  },
+  {
+    "Cliente - Nome": "CASA VERDE MATERIAIS PARA CONSTRUCAO LTDA",
+    "Cliente - CNPJ": 52912748000679,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "BRAGANCA PAULISTA",
+    "rua": "EST MUN VEREADOR ALVARO ALESSANDRI,84-,12903-841"
+  },
+  {
+    "Cliente - Nome": "COPAFER COML LTDA",
+    "Cliente - CNPJ": 55728224000106,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SANTO ANDRE",
+    "rua": "AV  DOS ESTADOS,4555-,09210-580"
+  },
+  {
+    "Cliente - Nome": "ARLINDO CARREIRA CIA LTDA",
+    "Cliente - CNPJ": 55019012000150,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "LEME",
+    "rua": "AV DR JAMBEIRO COSTA,850-,13610-831"
+  },
+  {
+    "Cliente - Nome": "NICOM COMERCIO DE MATERIAIS PARA CONSTRUCOES LTDA",
+    "Cliente - CNPJ": 60403110000630,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "SAO PAULO",
+    "rua": "R DR ABELARDO VERGUEIRO CESAR,2-,04635-080"
+  },
+  {
+    "Cliente - Nome": "LIGIA CONCEICAO DO AMARAL LIMA",
+    "Cliente - CNPJ": 24009197000511,
+    "Cliente - Estado": "SP",
+    "Cliente - Cidade": "LENCOIS PAULISTA",
+    "rua": "AV PREFEITO JACOMO NICOLAU PACCOLA,500-,18685-099"
+  },
+  {
+    "Cliente - Nome": "COAMO AGROINDUSTRIAL COOPERATIVA",
+    "Cliente - CNPJ": 75904383003228,
+    "Cliente - Estado": "PR",
+    "Cliente - Cidade": "CAMPO MOURAO",
+    "rua": "RUA PION ADINOR C DE SOUZA,780-,87309-730"
+  },
+  {
+    "Cliente - Nome": "L JARDIM E CIA LTDA",
+    "Cliente - CNPJ": 12270435000488,
+    "Cliente - Estado": "AL",
+    "Cliente - Cidade": "MACEIO",
+    "rua": "AV FERNANDES LIMA,991-B-,57055-000"
+  },
+  {
+    "Cliente - Nome": "POLITINTAS LTDA",
+    "Cliente - CNPJ": 27171883001473,
+    "Cliente - Estado": "ES",
+    "Cliente - Cidade": "CARIACICA",
+    "rua": "R TREZE,419-SL 02,29142-866"
+  },
+  {
+    "Cliente - Nome": "SR ACABAMENTOS E MAT P CONSTR LTDA",
+    "Cliente - CNPJ": 26443804000159,
+    "Cliente - Estado": "DF",
+    "Cliente - Cidade": "BRASILIA",
+    "rua": "ST SIA TRECHO 1,SN-LOTE 1010/1040,71200-010"
+  },
+  {
+    "Cliente - Nome": "FERRAGEM LORENZET LTDA",
+    "Cliente - CNPJ": 88318456000145,
+    "Cliente - Estado": "RS",
+    "Cliente - Cidade": "PELOTAS",
+    "rua": "AV ENG ILDEFONSO SIMOES LOPES,260-,96060-290"
+  },
+  {
+    "Cliente - Nome": "AC COELHO MAT CONST LTDA",
+    "Cliente - CNPJ": 37083474000154,
+    "Cliente - Estado": "DF",
+    "Cliente - Cidade": "BRASILIA",
+    "rua": "SIA TRECHO 3,SN-LT 1010 1060 E 1070 SN TR 3,71200-030"
+  }
+]
